@@ -223,4 +223,14 @@ describe("Tests the public API", () => {
     const result = filetypemime(file);
     expect(result).toContain("text/vtt");
   });
+  it("detects scc", () => {
+    const file = getBytes("a.scc");
+    const result = filetypemime(file);
+    expect(result).toContain("text/scc");
+  });
+  it("detects itt", () => {
+    const file = getBytes("a.itt");
+    const result = filetypemime(file);
+    expect(result).toContain("application/xml");
+  });
 });

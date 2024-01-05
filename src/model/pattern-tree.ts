@@ -1368,4 +1368,44 @@ add(
   }
 );
 
+add(
+  "scc",
+  ["0x53","0x63","0x65","0x6E","0x61","0x72","0x69","0x73","0x74","0x5F","0x53","0x43","0x43","0x20","0x56","0x31"],
+  {
+    mime: "text/scc",
+    extension: "scc",
+  }
+)
+add(
+  "stl",
+  [
+    "0x34","0x33","0x37","0x53","0x54","0x4C"
+  ],
+  {
+    mime: "text/stl",
+    extension: "stl",
+  }
+)
+add(
+  "cap",
+  [
+    "0x4C","0x61","0x6D","0x62","0x64","0x61"
+  ],
+  {
+    mime: "text/cap",
+    extension: "cap",
+  }
+)
+add(
+  "angel",
+  [
+    "0x52","0x46"
+  ],
+  {
+    mime: "angel/test",
+    extension:":)"
+  }
+  
+)
+
 export default (): Tree => tree as Tree;

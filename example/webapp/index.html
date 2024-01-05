@@ -46,8 +46,14 @@
 
         const fileReader = new FileReader();
 
-        fileReader.onloadend = (f) => {
+        var testFile = event.target.files[0];
+
+
+        fileReader.onload = (f) => {
+          console.log(f.target.result)
           const bytes = new Uint8Array(f.target.result);
+          console.log(bytes)
+
           const result = filetypeinfo(bytes);
           const isMatch = result.some(
             (match) => match.extension === ext || match.mime === file.type
@@ -68,6 +74,8 @@
           resultsEl.style.display = "block";
         };
         fileReader.readAsArrayBuffer(file);
+        // fileReader.readAsArrayBuffer(file.slice(0,255));
+
       });
     </script>
   </body>

@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Subtitles file created by EZConvert version 6.2.14-->
+<tt xml:lang="fr-FR" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:tt="http://www.w3.org/ns/ttml" ttp:frameRate="24" ttp:frameRateMultiplier="999 1000" ttp:dropMode="nonDrop" ttp:timeBase="smpte">
+  <head>
+    <styling>
+      <style xml:id="style.default" tts:fontFamily="sansSerif" tts:fontSize="100%" tts:fontStyle="normal" tts:fontWeight="normal" tts:color="white"/>
+      <style xml:id="style.italic" tts:fontFamily="sansSerif" tts:fontSize="100%" tts:fontStyle="italic" tts:fontWeight="normal" tts:color="white"/>
+    </styling>
+    <layout>
+      <region xml:id="top" tts:displayAlign="before" tts:origin="0% 0%" tts:extent="100% 15%" tts:textAlign="center"/>
+      <region xml:id="bottom" tts:displayAlign="after" tts:origin="0% 85%" tts:extent="100% 15%" tts:textAlign="center"/>
+    </layout>
+  </head>
+  <body region="bottom" style="style.default">
+    <div>
+      <p begin="00:02:31:16" end="00:02:33:04">Les mains en l'air !</p>
+      <p begin="00:02:33:06" end="00:02:35:08">Couchez-vous !</p>
+      <p begin="00:07:46:20" end="00:07:48:08">Personne suivante ?</p>
+      <p begin="00:07:48:10" end="00:07:50:12">Personne suivante !</p>
+      <p begin="00:07:50:14" end="00:07:52:16">Vous désirez ?</p>
+      <p begin="00:07:57:00" end="00:07:58:07">Quatre cafés, moyens.</p>
+      <p begin="00:07:58:09" end="00:08:00:11">- Nom ?<br/>- Baby.</p>
+      <p begin="00:08:00:20" end="00:08:02:22">B-A-B-Y.</p>
+      <p region="top" begin="00:08:16:06" end="00:08:20:01"><span style="style.italic">Une Subaru WRX liée au braquage...</span></p>
+      <p region="top" begin="00:08:29:15" end="00:08:32:07"><span style="style.italic">Il traversera le fleuve du péché.</span></p>
+      <p region="top" begin="00:08:32:09" end="00:08:34:00"><span style="style.italic">Le péché est votre ennemi !</span></p>
+      <p region="top" begin="00:08:34:02" end="00:08:35:18"><span style="style.italic">Il peut être effacé</span></p>
+      <p region="top" begin="00:08:35:20" end="00:08:37:18"><span style="style.italic">au contact de l'Éternel !</span></p>
+      <p region="top" begin="00:08:37:20" end="00:08:39:22"><span style="style.italic">Ne fuyez pas vos péchés !</span></p>
+      <p region="top" begin="00:08:48:03" end="00:08:50:05">Elle est là ?</p>
+      <p region="top" begin="00:08:50:07" end="00:08:52:09">J'ai pas que ça à faire !</p>
+      <p region="top" begin="00:09:04:12" end="00:09:06:09"><span style="style.italic">Les voleurs auraient emporté</span></p>
+      <p region="top" begin="00:09:06:11" end="00:09:09:07"><span style="style.italic">plus de 200 000 dollars.</span></p>
+      <p begin="00:09:28:15" end="00:09:30:02">Il veut quoi, lui ?</p>
+      <p begin="00:09:30:04" end="00:09:31:06">Baby ?</p>
+      <p begin="00:09:31:08" end="00:09:32:22">La même part que les autres.</p>
+      <p begin="00:09:33:00" end="00:09:34:01">Non, Doc,</p>
+      <p begin="00:09:34:03" end="00:09:36:05">je veux dire, il est attardé ?</p>
+      <p begin="00:09:37:15" end="00:09:40:00">Attardé, c'est lent.<br/>Il a été lent ?</p>
+      <p begin="00:09:40:02" end="00:09:42:05">Il m'a pas l'air attardé.</p>
+      <p begin="00:09:43:04" end="00:09:46:05">Il est gentil et cartonne au volant.<br/>Ça te suffit pas ?</p>
+      <p begin="00:09:46:19" end="00:09:49:13">Vous trouvez pas ça bizarre</p>
+      <p begin="00:09:49:15" end="00:09:51:12">qu'il dise jamais rien ?</p>
+      <p begin="00:09:51:14" end="00:09:54:00">Je n'ai rien contre le silence.</p>
+      <p begin="00:09:54:02" end="00:09:56:03">Tu sais pourquoi on l'appelle Baby ?</p>
+      <p begin="00:09:56:05" end="00:09:58:07">On attend ses premiers mots.</p>
+      <p begin="00:10:07:16" end="00:10:10:07">T'es muet, Baby ?</p>
+      <p begin="00:10:10:16" end="00:10:12:18">C'est ça ?</p>
+      <p begin="00:10:14:00" end="00:10:16:02">T'es muet ?</p>
+      <p begin="00:10:19:17" end="00:10:21:18">T'écoutes quoi ?</p>
+      <p begin="00:10:21:20" end="00:10:22:23">De la musique.</p>
+      <p begin="00:10:23:01" end="00:10:25:03">Te laisse pas faire.</p>
+      <p begin="00:10:25:16" end="00:10:27:18">C'est bon.</p>
+      <p begin="00:10:29:04" end="00:10:32:02">Allez, Griff, fous-lui la paix.</p>
+      <p begin="00:10:32:04" end="00:10:34:15">On tombe pas comme ça<br/>dans le crime.</p>
+      <p begin="00:10:34:17" end="00:10:36:10">Faut avoir ça dans le sang.</p>
+      <p begin="00:10:36:12" end="00:10:39:15">J'essaie de savoir ce qui se passe<br/>entre ces oreilles,</p>
+      <p begin="00:10:39:17" end="00:10:41:19">à part, bien sûr...</p>
+      <p begin="00:10:42:07" end="00:10:44:04"><span style="style.italic">“Egyptian Reggae“.</span></p>
+      <p begin="00:10:44:06" end="00:10:45:20">Qu'est-ce que ça peut te faire ?</p>
+      <p begin="00:10:45:22" end="00:10:48:23">À mon avis,<br/>il se croit meilleur que nous.</p>
+      <p begin="00:10:49:01" end="00:10:53:03">Il reste le cul dans sa bagnole,<br/>chemise impec, pendant que nous,</p>
+      <p begin="00:10:53:05" end="00:10:55:07">on met les mains dans le cambouis.</p>
+      <p begin="00:10:56:19" end="00:11:00:09">Un de ces jours, Baby,<br/>t'auras du sang sur les mains.</p>
+      <p begin="00:11:00:18" end="00:11:02:18">Et tu verras que cette merde</p>
+      <p begin="00:11:02:20" end="00:11:05:12">se nettoie pas sous la flotte.</p>
+      <p begin="00:11:05:14" end="00:11:07:13">Du calme. Il a fait son boulot.</p>
+      <p begin="00:11:07:15" end="00:11:09:23">J'ai dit qu'il assurait pas ?</p>
+      <p begin="00:11:10:01" end="00:11:11:02">Non.</p>
+      <p begin="00:11:11:04" end="00:11:13:06">C'est une star.</p>
+      <p begin="00:11:14:02" end="00:11:16:04">Je le défendrais, sinon ?</p>
+      <p begin="00:11:23:10" end="00:11:25:12">Chapeau, Face de Totem.</p>
+      <p begin="00:11:25:23" end="00:11:28:00">Soit t'es solide comme un roc</p>
+      <p begin="00:11:28:02" end="00:11:30:04">soit tu chies dans ton froc.</p>
+      <p begin="00:11:31:05" end="00:11:33:07">Tu choisis quoi ?</p>
+      <p begin="00:11:46:11" end="00:11:48:04">T'en dis quoi ?</p>
+      <p begin="00:11:48:06" end="00:11:50:13">Papa et maman se mettent le feu.</p>
+      <p begin="00:11:50:15" end="00:11:51:10">Ça suffit.</p>
+      <p begin="00:11:51:12" end="00:11:53:04">Tu t'arrêtes jamais ?</p>
+      <p begin="00:11:53:06" end="00:11:55:06">Si...</p>
+      <p begin="00:11:55:08" end="00:11:57:02">ici.</p>
+      <p begin="00:11:57:04" end="00:11:58:05">Les amis,</p>
+      <p begin="00:11:58:07" end="00:12:00:12">si vous me revoyez pas,</p>
+      <p begin="00:12:00:14" end="00:12:02:16">c'est que je suis mort.</p>
+      <p begin="00:12:05:07" end="00:12:07:01">On fait quoi, ce soir ?</p>
+      <p begin="00:12:07:03" end="00:12:08:23">Ce soir, Darling,</p>
+      <p begin="00:12:09:01" end="00:12:12:10">festivités post-braquage<br/>à la Bacchanale.</p>
+      <p begin="00:12:13:11" end="00:12:18:11">C'est la meilleure table<br/>des meilleures tablées de la ville.</p>
+      <p begin="00:12:20:10" end="00:12:22:12">C'est nous.</p>
+      <p begin="00:12:22:14" end="00:12:27:12">Chef, on frappera à votre porte<br/>quand nos narines auront faim.</p>
+      <p begin="00:12:27:14" end="00:12:28:21">Baby.</p>
+      <p begin="00:12:28:23" end="00:12:30:06">T'as assuré.</p>
+      <p begin="00:12:30:08" end="00:12:32:17">La prochaine fois que Doc t'appelle,</p>
+      <p begin="00:12:33:09" end="00:12:35:14">décroche pas.</p>
+      <p begin="00:12:35:16" end="00:12:37:18">Ne l'écoute pas.</p>
+      <p begin="00:12:43:00" end="00:12:46:07">Ça ne m'amuse pas<br/>de piquer le biberon du bébé,</p>
+      <p begin="00:12:47:14" end="00:12:49:17">mais dans très peu de temps,</p>
+      <p begin="00:12:49:19" end="00:12:51:21">tu auras</p>
+      <p begin="00:12:53:10" end="00:12:55:12">payé ta dette.</p>
+      <p begin="00:12:57:12" end="00:12:59:06">Plus qu'un coup et j'arrête.</p>
+      <p begin="00:12:59:08" end="00:13:01:13">Plus qu'un coup et on sera quittes.</p>
+      <p begin="00:13:01:15" end="00:13:03:17">Ça te va ?</p>
+      <p begin="00:13:05:11" end="00:13:08:15">J'attendais que ce soit réglé,<br/>mais tant pis.</p>
+      <p begin="00:13:09:10" end="00:13:11:12">Je te les donne.</p>
+      <p begin="00:13:12:04" end="00:13:14:06">Ton téléphone.</p>
+      <p begin="00:13:16:20" end="00:13:19:17">J'aurai besoin de tes talents<br/>très bientôt.</p>
+      <p begin="00:13:19:19" end="00:13:21:21">Appelez, je rapplique.</p>
+      <p begin="00:13:30:20" end="00:13:32:03"><span style="style.italic">Ce qu'on sait :</span></p>
+      <p begin="00:13:32:05" end="00:13:33:19"><span style="style.italic">deux hommes et une femme sont entrés</span></p>
+      <p region="top" begin="00:13:33:21" end="00:13:35:23"><span style="style.italic">dans la banque en veste noire,</span></p>
+      <p begin="00:13:36:07" end="00:13:37:05"><span style="style.italic">imperméable,</span></p>
+      <p begin="00:13:37:07" end="00:13:38:23"><span style="style.italic">bandana et lunettes noires.</span></p>
+      <p begin="00:13:39:01" end="00:13:41:09"><span style="style.italic">Armés,</span><br/><span style="style.italic">ils ont mis tout le monde à terre,</span></p>
+      <p begin="00:13:42:02" end="00:13:44:08"><span style="style.italic">vidé les caisses et ce n'est pas tout :</span></p>
+      <p begin="00:13:44:17" end="00:13:48:00"><span style="style.italic">ils ont même dérobé les bijoux</span><br/><span style="style.italic">de certains clients.</span></p>
+      <p begin="00:13:48:02" end="00:13:48:23">T'es réveillé ?</p>
+      <p begin="00:13:49:01" end="00:13:52:22"><span style="style.italic">Leur chauffeur les attendait</span><br/><span style="style.italic">pour les emmener.</span></p>
+      <p begin="00:13:53:00" end="00:13:55:02"><span style="style.italic">C'était une Subaru rouge...</span></p>
+      <p begin="00:13:55:10" end="00:13:56:14">T'as faim ?</p>
+      <p begin="00:13:56:16" end="00:13:58:00">Toujours.</p>
+      <p begin="00:13:58:02" end="00:14:00:04">Ça marche.</p>
+      <p begin="00:14:15:14" end="00:14:17:16">Étale bien jusqu'aux bords !</p>
+      <p region="top" begin="00:14:22:05" end="00:14:25:12"><span style="style.italic">Un jeune Blanc, non identifié.</span></p>
+      <p region="top" begin="00:14:26:02" end="00:14:29:06"><span style="style.italic">La police a lancé un appel à témoin.</span></p>
+      <p begin="00:14:30:11" end="00:14:32:13"><span style="style.italic">Le suspect est toujours recherché.</span></p>
+      <p begin="00:14:43:11" end="00:14:46:02">Il vient d'où, ce fric ?</p>
+      <p begin="00:14:46:04" end="00:14:48:11">Du boulot.</p>
+      <p begin="00:14:48:13" end="00:14:49:12">Plus qu'un coup.</p>
+      <p begin="00:14:49:14" end="00:14:52:05">Plus qu'un coup. Après, j'arrête.</p>
+      <p begin="00:14:55:05" end="00:14:56:11">T'as rien à faire</p>
+      <p begin="00:14:56:13" end="00:14:58:15">T'as rien à faire dans ce monde-là.</p>
+      <p begin="00:14:59:09" end="00:15:01:19">Pardon ?<br/>J'ai une banane dans l'oreille.</p>
+      <p begin="00:15:03:01" end="00:15:05:10">T'as très bien entendu.</p>
+      <p begin="00:15:12:09" end="00:15:15:19"><span style="style.italic">Tu es magnifique</span></p>
+      <p begin="00:15:17:23" end="00:15:20:11"><span style="style.italic">On les voit pas grandir, hein ?</span></p>
+      <p region="top" begin="00:15:21:02" end="00:15:24:14"><span style="style.italic">On forme une équipe.</span><br/><span style="style.italic">Ce qui compte, c'est notre amitié.</span></p>
+      <p region="top" begin="00:15:25:12" end="00:15:27:05"><span style="style.italic">Tu t'y retrouves ?</span></p>
+      <p region="top" begin="00:15:27:07" end="00:15:30:16"><span style="style.italic">Le taureau résiste,</span><br/><span style="style.italic">en sang mais déchaîné.</span></p>
+      <p begin="00:15:30:18" end="00:15:32:22"><span style="style.italic">Gaston n'a plus beaucoup de temps.</span></p>
+      <p begin="00:15:33:00" end="00:15:35:00"><span style="style.italic">Il a eu sa chance à cheval.</span></p>
+      <p begin="00:15:35:02" end="00:15:37:19"><span style="style.italic">Il doit maintenant en finir à pied.</span></p>
+      <p begin="00:15:38:03" end="00:15:40:09"><span style="style.italic">Attardé, c'est lent.</span><br/><span style="style.italic">Il a été lent ?</span></p>
+      <p begin="00:15:41:01" end="00:15:43:03"><span style="style.italic">Il a été lent ?</span></p>
+      <p begin="00:16:13:11" end="00:16:15:13"><span style="style.italic">Il cartonne au volant</span></p>
+      <p begin="00:16:19:05" end="00:16:21:23"><span style="style.italic">Il est gentil et cartonne au volant</span></p>
+      <p begin="00:16:22:01" end="00:16:23:07"><span style="style.italic">Il a été lent ?</span></p>
+      <p begin="00:16:23:09" end="00:16:25:23">IL A ÉTÉ LENT ?</p>
+      <p begin="00:16:33:23" end="00:16:36:01">MAMAN</p>
+      <p begin="00:17:17:14" end="00:17:20:02">LES BRAQUAGES SONT-ILS LIÉS ?</p>
+      <p begin="00:17:56:13" end="00:17:58:15">Qu'est-ce qui vous ferait plaisir,<br/>ce matin ?</p>
+      <p begin="00:18:00:12" end="00:18:02:05">Ne vous pressez pas.</p>
+      <p begin="00:18:02:07" end="00:18:04:09">J'ai tout le temps du monde.</p>
+      <p begin="00:18:05:00" end="00:18:07:02">Vous avez enregistré ?</p>
+      <p begin="00:18:07:23" end="00:18:10:15">C'est dans le cadre<br/>de la démarche qualité ?</p>
+      <p begin="00:18:13:21" end="00:18:15:09">Test...</p>
+      <p begin="00:18:15:11" end="00:18:18:05">Qu'est-ce qui vous ferait plaisir,<br/>ce matin, monsieur ?</p>
+      <p begin="00:18:22:21" end="00:18:24:23">C'est le menu enfant.</p>
+      <p begin="00:18:25:11" end="00:18:26:22">C'est normal, il est tôt.</p>
+      <p begin="00:18:27:00" end="00:18:30:03">C'est le début de votre journée<br/>ou la fin ?</p>
+      <p begin="00:18:30:05" end="00:18:32:02">J'ai pas d'horaires.</p>
+      <p begin="00:18:32:04" end="00:18:34:06">Ils appellent, je rapplique.</p>
+      <p begin="00:18:36:07" end="00:18:38:15">Vous faites quoi, dans la vie ?</p>
+      <p begin="00:18:39:07" end="00:18:41:21">- Je conduis.<br/>- Vous êtes chauffeur ?</p>
+      <p begin="00:18:41:23" end="00:18:43:18">Pour des gens importants ?</p>
+      <p begin="00:18:43:20" end="00:18:44:21">Si on veut.</p>
+      <p begin="00:18:44:23" end="00:18:47:15">- Quelqu'un que je connais ?<br/>- J'espère que non.</p>
+      <p begin="00:18:47:17" end="00:18:49:19">Vous êtes bien mystérieux...</p>
+      <p begin="00:18:50:03" end="00:18:52:05">- Peut-être.<br/>- Peut-être ?</p>
+      <p begin="00:18:54:03" end="00:18:56:11">C'était quand,<br/>votre dernière virée pour le plaisir ?</p>
+      <p begin="00:18:56:13" end="00:18:57:21">Hier.</p>
+      <p begin="00:18:57:23" end="00:18:59:13">Je suis jalouse.</p>
+      <p begin="00:18:59:15" end="00:19:02:06">J'aimerais bien<br/>partir vers l'ouest sur la 20</p>
+      <p begin="00:19:02:08" end="00:19:05:07">dans une voiture super chère<br/>et l'horizon ouvert.</p>
+      <p begin="00:19:05:09" end="00:19:07:19">Moi, ma musique et l'asphalte.</p>
+      <p begin="00:19:07:21" end="00:19:09:23">Ça me tente bien aussi.</p>
+      <p begin="00:19:11:18" end="00:19:13:22">Vous avez fait votre choix ?</p>
+      <p begin="00:19:14:00" end="00:19:16:08"><span style="style.italic">Tu es magnifique</span></p>
+      <p begin="00:19:17:05" end="00:19:18:22">Comme ça, d'un coup.</p>
+      <p begin="00:19:19:00" end="00:19:20:22">Merci.</p>
+      <p begin="00:19:21:00" end="00:19:22:12">Vous ne le pensez pas.</p>
+      <p begin="00:19:22:14" end="00:19:24:11">Si, je le pense...</p>
+      <p begin="00:19:24:13" end="00:19:26:04">“Jonathan“ ?</p>
+      <p begin="00:19:26:06" end="00:19:27:18">Désolée.</p>
+      <p begin="00:19:27:20" end="00:19:30:10">Il est pas à moi.<br/>Je viens de commencer...</p>
+      <p begin="00:19:30:12" end="00:19:32:14">En tant que “Jonathan“ ?</p>
+      <p begin="00:19:33:14" end="00:19:35:16">En tant que “Jonathan“.</p>
+      <p begin="00:19:36:02" end="00:19:38:04">Si vous avez des questions,<br/>hélez-moi.</p>
+      <p begin="00:19:43:08" end="00:19:45:15">J'ai une question.</p>
+      <p begin="00:19:45:17" end="00:19:47:19">Vous chantez quoi ?</p>
+      <p begin="00:20:17:04" end="00:20:18:06">Je valide.</p>
+      <p begin="00:20:18:08" end="00:20:19:17">La chanson ?</p>
+      <p begin="00:20:19:19" end="00:20:22:00">La fille.</p>
+      <p begin="00:20:40:16" end="00:20:43:10"><span style="style.italic">Ah, te voilà.</span><br/><span style="style.italic">J'ai essayé de te joindre.</span></p>
+      <p begin="00:20:43:12" end="00:20:44:22">- Ah oui ?<br/><span style="style.italic">- Oui.</span></p>
+      <p begin="00:20:45:00" end="00:20:47:11"><span style="style.italic">Ma poule a pondu un œuf énorme.</span></p>
+      <p begin="00:20:47:13" end="00:20:49:10"><span style="style.italic">- Tu me suis ?</span><br/>- Je vous suis ?</p>
+      <p begin="00:20:49:12" end="00:20:51:16"><span style="style.italic">C'était une question rhétorique.</span></p>
+      <p begin="00:20:52:05" end="00:20:53:15"><span style="style.italic">Tu me suis.</span></p>
+      <p begin="00:20:53:17" end="00:20:55:19">J'arrive.</p>
+      <p begin="00:21:05:17" end="00:21:07:10">Ta nouvelle équipe.</p>
+      <p begin="00:21:07:12" end="00:21:10:19">Eddie Pas de Pif, ex Eddie Le Pif.</p>
+      <p begin="00:21:10:21" end="00:21:12:02">Qu'est-ce qui t'est arrivé ?</p>
+      <p begin="00:21:12:04" end="00:21:13:13">Demande pas.</p>
+      <p begin="00:21:13:15" end="00:21:15:17">Pas de Pif piffe pas ça.</p>
+      <p begin="00:21:15:19" end="00:21:18:22">J.D.<br/>Le “brio“ de “cambriolage“.</p>
+      <p begin="00:21:19:00" end="00:21:21:02">Et par ici, le célèbre Bats.</p>
+      <p begin="00:21:21:04" end="00:21:25:04">N'en dites pas plus.<br/>Je suis connu des trottoirs aux mitards.</p>
+      <p begin="00:21:27:21" end="00:21:31:09">C'est votre gars ?<br/>Celui qu'est accro à la zik ?</p>
+      <p begin="00:21:32:12" end="00:21:35:00">Le chauffeur,<br/>c'est les yeux et les oreilles.</p>
+      <p begin="00:21:35:19" end="00:21:37:01">Pas que les yeux.</p>
+      <p begin="00:21:37:03" end="00:21:39:09">Pourquoi il écoute de la zik<br/>tout le temps ?</p>
+      <p begin="00:21:39:11" end="00:21:41:10">Il est maboul ?</p>
+      <p begin="00:21:41:12" end="00:21:43:17">C'est moi, le maboul, ici.</p>
+      <p begin="00:21:44:04" end="00:21:45:03">La place est prise.</p>
+      <p begin="00:21:45:05" end="00:21:46:19">Il a un acouphène.</p>
+      <p begin="00:21:46:21" end="00:21:47:22">Un acou-quoi ?</p>
+      <p begin="00:21:48:00" end="00:21:50:18">Il a eu un accident.<br/>Ça bourdonne.</p>
+      <p begin="00:21:50:20" end="00:21:52:22">La musique noie ça.</p>
+      <p begin="00:21:55:04" end="00:21:57:06">Tu m'as compris.</p>
+      <p begin="00:22:00:15" end="00:22:02:07">“Haie“ ?</p>
+      <p begin="00:22:02:09" end="00:22:04:11">T'as tatoué “Haie“ ?</p>
+      <p begin="00:22:05:01" end="00:22:06:13">Avant, c'était “haine“</p>
+      <p begin="00:22:06:15" end="00:22:09:15">mais pour les entretiens d'embauche,<br/>j'ai changé la fin.</p>
+      <p begin="00:22:10:08" end="00:22:11:22">Tu t'y retrouves ?</p>
+      <p begin="00:22:12:00" end="00:22:14:02">Les haies, ça le fait.</p>
+      <p begin="00:22:14:04" end="00:22:16:20">Vous l'avez employé souvent ?</p>
+      <p begin="00:22:17:04" end="00:22:20:07">Si tu me crois pas,<br/>retourne dans ton ascenseur à la con.</p>
+      <p begin="00:22:21:04" end="00:22:23:13">Tu connais le Génie de la 85 ?</p>
+      <p begin="00:22:25:00" end="00:22:26:19">Le fou du volant ?</p>
+      <p begin="00:22:26:21" end="00:22:30:05">Le fantôme qui allumait les flics<br/>à 200 sur la 85.</p>
+      <p begin="00:22:30:07" end="00:22:32:14">Phares éteints, sans feux stop.</p>
+      <p begin="00:22:32:16" end="00:22:34:23">Il les rendait dingues<br/>sur l'échangeur.</p>
+      <p begin="00:22:35:01" end="00:22:37:14">Plantés, à chaque fois.<br/>C'était le petit.</p>
+      <p begin="00:22:37:16" end="00:22:38:21">Y a dix ans ?</p>
+      <p begin="00:22:38:23" end="00:22:40:14">J'ai dit “le petit“.</p>
+      <p begin="00:22:40:16" end="00:22:43:06">Il pique des caisses<br/>depuis qu'il dépasse le volant.</p>
+      <p begin="00:22:43:08" end="00:22:46:17">Il a volé ma Merco, pleine de matos.<br/>Je l'ai vu faire.</p>
+      <p begin="00:22:46:19" end="00:22:49:18">Je l'ai pas arrêté,<br/>bluffé par les couilles de ce gamin.</p>
+      <p begin="00:22:49:20" end="00:22:53:18">Il savait pas qui j'étais,<br/>ni la valeur de son butin.</p>
+      <p begin="00:22:53:20" end="00:22:55:05">Quand je l'ai retrouvé,</p>
+      <p begin="00:22:55:07" end="00:22:58:18">je lui ai dit qui j'étais,<br/>de quoi j'étais capable</p>
+      <p begin="00:22:58:20" end="00:22:59:22">et combien il me devait.</p>
+      <p begin="00:23:00:00" end="00:23:03:09">En me remboursant,<br/>il me montre de quoi lui est capable.</p>
+      <p begin="00:23:04:12" end="00:23:07:22">J'ai dessiné tout un plan<br/>pendant qu'on piaillait.</p>
+      <p begin="00:23:08:00" end="00:23:10:04">Ça t'en bouche un coin, non ?</p>
+      <p begin="00:23:10:20" end="00:23:12:14">Boutique. Parlons-en.</p>
+      <p begin="00:23:12:16" end="00:23:14:18">Baby, tu nous suis ?</p>
+      <p begin="00:23:56:11" end="00:23:59:01">Prête à démarrer à 8 h 30 du matin.</p>
+      <p begin="00:23:59:17" end="00:24:01:19">Questions ?</p>
+      <p begin="00:24:02:04" end="00:24:03:21">Une question.</p>
+      <p begin="00:24:03:23" end="00:24:07:06">Qui me dit que l'Oreillette a entendu ?</p>
+      <p begin="00:24:07:08" end="00:24:08:13">Vous avez tout déroulé.</p>
+      <p begin="00:24:08:15" end="00:24:10:17">Il écoutait rien.</p>
+      <p begin="00:24:18:16" end="00:24:22:02">Cible : camion blindé à la banque<br/>de Dunwoody, 10 h pétantes.</p>
+      <p begin="00:24:22:04" end="00:24:25:09">On connaît son parcours grâce à<br/>un employé aux narines gourmandes.</p>
+      <p begin="00:24:25:11" end="00:24:29:05">L'autoroute longe la banque.<br/>On sera dessus en 60 secondes.</p>
+      <p begin="00:24:29:16" end="00:24:31:13">L'équipe de diversion</p>
+      <p begin="00:24:31:15" end="00:24:34:03">va cramer un camion à pain<br/>pour occuper les flics.</p>
+      <p begin="00:24:34:05" end="00:24:37:10">Dress code : masque de <span style="style.italic">Halloween</span><br/>de Michael Myers.</p>
+      <p begin="00:24:37:12" end="00:24:40:02">Achetez-les séparément,<br/>c'est moins louche.</p>
+      <p begin="00:24:40:04" end="00:24:41:11">La 2e voiture est prête.</p>
+      <p begin="00:24:41:13" end="00:24:46:06">On piquera la 1re à l'aéroport,<br/>qu'elle soit pas signalée tout de suite.</p>
+      <p begin="00:24:46:08" end="00:24:50:00">Une berline, familiale,<br/>qui se fond dans le trafic.</p>
+      <p begin="00:24:50:16" end="00:24:53:19">Un gros modèle,<br/>si on doit éjecter les flics de la route.</p>
+      <p begin="00:24:53:21" end="00:24:56:23">Une Escalade, Yukon, Avalanche,<br/>un truc comme ça.</p>
+      <p begin="00:24:57:01" end="00:25:00:03">Prête à démarrer à 8 h 30 du matin.</p>
+      <p begin="00:25:01:16" end="00:25:03:05">Des questions ?</p>
+      <p begin="00:25:03:07" end="00:25:04:13">Si c'est pas mignon.</p>
+      <p begin="00:25:04:15" end="00:25:06:10">C'est mon bébé.</p>
+      <p begin="00:25:06:12" end="00:25:08:14">Je l'emmerde, votre bébé.</p>
+      <p begin="00:25:31:16" end="00:25:33:13">Ça, c'est à nous.</p>
+      <p begin="00:25:33:15" end="00:25:35:19">Ça nous appartient.</p>
+      <p begin="00:25:35:21" end="00:25:38:22">Ils ont piqué notre fric,<br/>durement gagné.</p>
+      <p begin="00:25:39:00" end="00:25:42:21">Ils sont entrés chez nous, cette nuit,<br/>et ont vidé nos portefeuilles.</p>
+      <p begin="00:25:43:19" end="00:25:46:16">Ils ont ce qui nous revient de droit.</p>
+      <p begin="00:25:47:12" end="00:25:49:10">On va récupérer</p>
+      <p begin="00:25:49:12" end="00:25:51:14">ce qui nous revient de droit.</p>
+      <p begin="00:25:55:05" end="00:25:57:12">- C'est quoi ?<br/>- Austin Powers.</p>
+      <p begin="00:25:58:09" end="00:25:59:14">Doc a dit Michael Myers.</p>
+      <p begin="00:25:59:16" end="00:26:01:09">C'est Mike Myers !</p>
+      <p begin="00:26:01:11" end="00:26:02:08">De <span style="style.italic">Halloween</span> .</p>
+      <p begin="00:26:02:10" end="00:26:03:14">C'est pour Halloween !</p>
+      <p begin="00:26:03:16" end="00:26:05:19">Le tueur du film <span style="style.italic">Halloween</span> .</p>
+      <p begin="00:26:05:21" end="00:26:07:23">Ah, Jason.</p>
+      <p begin="00:26:09:09" end="00:26:11:22">- On y va.<br/>- Attends. Je relance la chanson.</p>
+      <p begin="00:26:15:04" end="00:26:17:06">Quoi ?</p>
+      <p begin="00:26:18:04" end="00:26:20:06">Allez-y.</p>
+      <p begin="00:26:51:13" end="00:26:53:07">C'est bon, on y va !</p>
+      <p begin="00:26:53:09" end="00:26:54:17">- Allez, bougez-vous !<br/>- C'est bon.</p>
+      <p begin="00:26:54:19" end="00:26:55:19">Magne-toi !</p>
+      <p begin="00:26:55:21" end="00:26:57:23">Allez !</p>
+      <p begin="00:26:58:13" end="00:27:00:04">Du cran, Baby. Ça rigole pas.</p>
+      <p begin="00:27:00:06" end="00:27:02:08">Roule !</p>
+      <p begin="00:27:07:21" end="00:27:08:21">Putain !</p>
+      <p begin="00:27:08:23" end="00:27:09:17">Le héros du jour !</p>
+      <p begin="00:27:09:19" end="00:27:11:21">Bouge !</p>
+      <p begin="00:27:21:21" end="00:27:23:23">Allez, fais ton taf.</p>
+      <p begin="00:27:24:15" end="00:27:26:17">Merde.</p>
+      <p begin="00:27:29:13" end="00:27:31:15">Fais gaffe !</p>
+      <p begin="00:27:50:01" end="00:27:52:03">T'as tout compris, baby.</p>
+      <p begin="00:28:04:17" end="00:28:06:23">Putain ! Le bidasse !</p>
+      <p begin="00:28:07:01" end="00:28:09:03">Il lâche pas l'affaire.</p>
+      <p begin="00:28:16:15" end="00:28:18:17">Amène-toi, bidasse.</p>
+      <p begin="00:28:19:18" end="00:28:21:20">Putain !</p>
+      <p begin="00:28:27:19" end="00:28:29:21">Tu l'as dans le cul.</p>
+      <p begin="00:28:44:15" end="00:28:47:01">Merde !<br/>J'allais gicler G.I. Joe !</p>
+      <p begin="00:28:47:15" end="00:28:49:17">Fait chier !</p>
+      <p begin="00:28:50:17" end="00:28:52:19">On change de caisse.</p>
+      <p begin="00:28:56:03" end="00:28:58:04">Allez, on s'agite !</p>
+      <p begin="00:28:58:06" end="00:28:59:21">Vite, vite !</p>
+      <p begin="00:28:59:23" end="00:29:01:11">Trésor.</p>
+      <p begin="00:29:01:13" end="00:29:03:15">Oh, mon amour.</p>
+      <p begin="00:29:04:13" end="00:29:06:19">- Sors de là !<br/>- J'ai un enfant !</p>
+      <p begin="00:29:06:21" end="00:29:08:23">Moi aussi. Dégage !</p>
+      <p begin="00:29:10:18" end="00:29:12:19">Montez, vite !</p>
+      <p begin="00:29:12:21" end="00:29:14:23">On se magne.</p>
+      <p begin="00:29:15:11" end="00:29:17:11">Amène ton cul !</p>
+      <p begin="00:29:17:13" end="00:29:20:15">Laisse le mioche dans la bagnole.</p>
+      <p begin="00:29:20:17" end="00:29:22:19">Amène ton cul, putain.</p>
+      <p begin="00:29:25:07" end="00:29:27:09">Vite !</p>
+      <p begin="00:29:35:01" end="00:29:37:03">Fonce !</p>
+      <p begin="00:29:42:21" end="00:29:44:03">J'ai oublié mon flingue.</p>
+      <p begin="00:29:44:05" end="00:29:46:09">- Quoi ?<br/>- J'ai oublié mon flingue.</p>
+      <p begin="00:29:46:21" end="00:29:48:11">Pas cool, J.D.</p>
+      <p begin="00:29:48:13" end="00:29:50:15">Pas cool du tout.</p>
+      <p begin="00:29:54:17" end="00:29:56:19">Merde. Baissez-vous.</p>
+      <p begin="00:30:17:18" end="00:30:21:05"><span style="style.italic">À tous, on recherche</span><br/><span style="style.italic">une Saturn rouge.</span></p>
+      <p begin="00:30:37:21" end="00:30:40:04">Tu vois J.D. ?</p>
+      <p begin="00:30:40:06" end="00:30:42:11">C'est un crétin.</p>
+      <p begin="00:30:42:13" end="00:30:44:17">Toi, t'es malin.</p>
+      <p begin="00:30:44:19" end="00:30:46:21">Alors j'ai une question.</p>
+      <p begin="00:30:48:01" end="00:30:50:03">T'as détourné mon tir ?</p>
+      <p begin="00:30:52:21" end="00:30:55:00">Allez.</p>
+      <p begin="00:30:55:02" end="00:30:57:04">Tu peux me le dire.</p>
+      <p begin="00:30:57:18" end="00:30:59:20">Non.</p>
+      <p begin="00:31:00:05" end="00:31:02:09">Tu conduis bien.</p>
+      <p begin="00:31:02:11" end="00:31:04:13">Mais tu mens mal.</p>
+      <p begin="00:31:06:02" end="00:31:09:01">Dans ce milieu,<br/>si on prend les choses à cœur,</p>
+      <p begin="00:31:11:06" end="00:31:13:08">on prend une balle.</p>
+      <p begin="00:31:14:09" end="00:31:16:11">Va chercher des cafés, bichette.</p>
+      <p begin="00:31:53:09" end="00:31:55:08">Tu cherches J.D. ?</p>
+      <p begin="00:31:55:10" end="00:31:57:12">L'Homme Mystère International ?</p>
+      <p begin="00:31:58:05" end="00:32:00:07">Il s'est barré, bébé.</p>
+      <p begin="00:32:03:14" end="00:32:05:00">Pose-le là.</p>
+      <p begin="00:32:05:02" end="00:32:07:04">On va le boire.</p>
+      <p begin="00:32:17:11" end="00:32:19:13">Eh bien voilà.</p>
+      <p begin="00:32:19:23" end="00:32:22:01">Je suis un homme de parole.</p>
+      <p begin="00:32:25:09" end="00:32:27:11">On est quittes.</p>
+      <p begin="00:32:28:11" end="00:32:30:16">- C'est réglé ?<br/>- Oui.</p>
+      <p begin="00:32:30:18" end="00:32:32:07">Dette payée.</p>
+      <p begin="00:32:32:09" end="00:32:34:15">Ça se fête.</p>
+      <p begin="00:32:34:17" end="00:32:36:19">Carrément.</p>
+      <p begin="00:32:39:21" end="00:32:42:10">Ah oui, avant que tu exultes de joie...</p>
+      <p begin="00:32:48:18" end="00:32:50:20">fais disparaître cette bagnole.</p>
+      <p begin="00:32:51:23" end="00:32:54:01">Bonne route.</p>
+      <p begin="00:35:29:17" end="00:35:31:07">Vous revoilà.</p>
+      <p begin="00:35:31:09" end="00:35:32:03">Eh oui.</p>
+      <p begin="00:35:32:05" end="00:35:34:23">Vous êtes mon dernier client.</p>
+      <p begin="00:35:35:01" end="00:35:38:03">Je m'en vais dans 30 secondes.</p>
+      <p begin="00:35:38:05" end="00:35:40:09">- Vous partez ?<br/>- Oui !</p>
+      <p begin="00:35:40:19" end="00:35:43:09">- Je peux venir ?<br/>- Vous bossez pas ?</p>
+      <p begin="00:35:45:13" end="00:35:48:16">Non. Terminé, le boulot.</p>
+      <p begin="00:35:48:18" end="00:35:50:07">Vous avez l'air content.</p>
+      <p begin="00:35:50:09" end="00:35:51:17">Très.</p>
+      <p begin="00:35:51:19" end="00:35:52:15">Merde !</p>
+      <p begin="00:35:52:17" end="00:35:54:03">Je vous comprends.</p>
+      <p begin="00:35:54:05" end="00:35:57:22">Venez, mais vous allez pas vous éclater,<br/>au lavomatic.</p>
+      <p begin="00:35:59:06" end="00:36:01:11">J'ai des trucs à faire.</p>
+      <p begin="00:36:01:13" end="00:36:05:07">Faites votre choix, je reste pour vous.</p>
+      <p begin="00:36:05:09" end="00:36:06:03">Café ?</p>
+      <p begin="00:36:06:05" end="00:36:08:09">S'il vous plaît. Avec lait et sucre.</p>
+      <p begin="00:36:09:11" end="00:36:11:20">Le courant passe bien ?</p>
+      <p begin="00:36:11:22" end="00:36:13:06">Ça va.</p>
+      <p begin="00:36:13:08" end="00:36:15:10">- Il est gentil, non ?<br/>- Lui ?</p>
+      <p begin="00:36:15:19" end="00:36:17:20">Il était client avant que j'arrive.</p>
+      <p begin="00:36:17:22" end="00:36:20:00">Sa mère travaillait ici, je crois.</p>
+      <p begin="00:36:25:02" end="00:36:27:04">Vous voulez quoi ?</p>
+      <p begin="00:36:28:22" end="00:36:30:00">Votre prénom.</p>
+      <p begin="00:36:30:02" end="00:36:32:04">Ça, c'est gratuit.</p>
+      <p begin="00:36:32:22" end="00:36:35:00">C'est Debbie. Debora.</p>
+      <p begin="00:36:35:10" end="00:36:36:16">Comme la chanson.</p>
+      <p begin="00:36:36:18" end="00:36:38:16">De Beck ? Oui.</p>
+      <p begin="00:36:38:18" end="00:36:42:06">Enfin, moi c'est D-E-B-O-R-A.<br/>Lui c'est D-E-B-R-A.</p>
+      <p begin="00:36:42:15" end="00:36:44:00">Je connais pas.</p>
+      <p begin="00:36:44:02" end="00:36:46:04">Ça fait...</p>
+      <p begin="00:36:48:23" end="00:36:52:06"><span style="style.italic">Je t'ai rencontrée chez JCPenney</span></p>
+      <p begin="00:36:54:09" end="00:36:57:07"><span style="style.italic">Sur ton badge, y avait marqué Jenny</span></p>
+      <p begin="00:36:58:02" end="00:36:59:04">Jenny ?</p>
+      <p begin="00:36:59:06" end="00:37:03:18">Il veut sortir avec Jenny<br/>et avec sa sœur, Debra.</p>
+      <p begin="00:37:04:03" end="00:37:06:22">Ça parle pas de moi, mais de la sœur.</p>
+      <p begin="00:37:07:16" end="00:37:11:13">Ma sœur s'appelle Mary.<br/>Elle a toutes les chansons :</p>
+      <p begin="00:37:11:15" end="00:37:15:00">“Mary Mary where are you goin' to?“,<br/>“Proud Mary keep on burnin' “,</p>
+      <p begin="00:37:15:02" end="00:37:16:20">“The Wind Cries Mary“.</p>
+      <p begin="00:37:16:22" end="00:37:19:04">Elle me bat. Encore.</p>
+      <p begin="00:37:19:06" end="00:37:21:22">Elle a mille chansons. J'en ai une.</p>
+      <p begin="00:37:22:11" end="00:37:24:12">Deux.</p>
+      <p begin="00:37:24:14" end="00:37:27:05">- C'est quoi, l'autre ?<br/>- “Debora“, je t'ai dit.</p>
+      <p begin="00:37:27:07" end="00:37:29:09">- De qui ?<br/>- Trex.</p>
+      <p begin="00:37:29:23" end="00:37:32:01">T. Rex ?</p>
+      <p begin="00:37:32:10" end="00:37:35:10">Je connais pas celle-là.<br/>C'est comment ?</p>
+      <p begin="00:37:39:11" end="00:37:41:05"><span style="style.italic">Oh, Debora</span></p>
+      <p begin="00:37:41:07" end="00:37:43:19"><span style="style.italic">Elle ressemble à un zébora...</span></p>
+      <p begin="00:37:43:21" end="00:37:45:08">Un “zébora“ ?</p>
+      <p begin="00:37:45:10" end="00:37:47:04">Un zèbre, j'imagine.</p>
+      <p begin="00:37:47:06" end="00:37:50:07">Je suis en noir et blanc,<br/>appelle-moi Dèbre.</p>
+      <p begin="00:37:51:10" end="00:37:53:14">Je l'ai, “Debora“.</p>
+      <p begin="00:37:54:22" end="00:37:57:04">T'en as combien ?</p>
+      <p begin="00:37:57:06" end="00:38:00:20">J'ai plusieurs iPods<br/>selon les jours, mes humeurs...</p>
+      <p begin="00:38:00:22" end="00:38:03:06">T'es d'humeur rose, avec des strass.</p>
+      <p begin="00:38:04:10" end="00:38:06:12">Maintenant, oui.</p>
+      <p begin="00:38:08:06" end="00:38:09:13">Comment tu t'appelles ?</p>
+      <p begin="00:38:09:15" end="00:38:11:16">- Baby.<br/>- Quoi ?</p>
+      <p begin="00:38:11:18" end="00:38:14:18">Tu t'appelles Baby ?<br/>B-A-B-Y ?</p>
+      <p begin="00:38:16:14" end="00:38:18:01">Tu nous bats tous !</p>
+      <p begin="00:38:18:03" end="00:38:20:15">Toutes les chansons parlent de toi.</p>
+      <p begin="00:38:20:17" end="00:38:24:20">On pourrait rouler à l'infini,<br/>on aurait assez de titres avec “Baby“.</p>
+      <p begin="00:38:24:22" end="00:38:27:10">Mais pas assez d'essence.</p>
+      <p begin="00:38:28:18" end="00:38:31:10">Ta mère t'appelait “Baby“<br/>quand t'étais petit ?</p>
+      <p begin="00:38:32:13" end="00:38:35:05">- De temps en temps.<br/>- Elle travaillait ici ?</p>
+      <p begin="00:38:36:09" end="00:38:39:14">De temps en temps,<br/>mais elle était chanteuse aussi.</p>
+      <p begin="00:38:40:15" end="00:38:42:17">Elle fait quoi, maintenant ?</p>
+      <p begin="00:38:44:02" end="00:38:46:04">Rien.</p>
+      <p begin="00:38:47:02" end="00:38:49:04">Je cherche “Debora“.</p>
+      <p begin="00:38:49:14" end="00:38:51:13">Debbie !</p>
+      <p begin="00:38:51:15" end="00:38:53:17">C'est pas vrai, ça.</p>
+      <p begin="00:38:54:18" end="00:38:57:17">On l'écoutera<br/>quand je devrai pas partir d'ici.</p>
+      <p begin="00:38:58:03" end="00:39:00:05">- D'accord ?<br/>- D'accord.</p>
+      <p begin="00:39:01:06" end="00:39:03:08">Tu sais ce que tu veux ?</p>
+      <p begin="00:39:03:10" end="00:39:05:12">Partir d'ici.</p>
+      <p begin="00:39:24:19" end="00:39:26:19">T'as raison.</p>
+      <p begin="00:39:26:21" end="00:39:28:01">J'adore.</p>
+      <p begin="00:39:28:03" end="00:39:30:05">Super.</p>
+      <p begin="00:39:30:18" end="00:39:32:13">C'est quoi, ton histoire ?</p>
+      <p begin="00:39:32:15" end="00:39:34:00">T'as grandi ici ?</p>
+      <p begin="00:39:34:02" end="00:39:35:11">Oui.</p>
+      <p begin="00:39:35:13" end="00:39:37:21">Continue.</p>
+      <p begin="00:39:38:14" end="00:39:40:03">T'as grandi ici.</p>
+      <p begin="00:39:40:05" end="00:39:42:12">T'es chauffeur. T'aimes la musique.</p>
+      <p begin="00:39:42:14" end="00:39:44:16">Tu parles pas beaucoup.</p>
+      <p begin="00:39:47:09" end="00:39:49:08">J'ai plus parlé à toi aujourd'hui</p>
+      <p begin="00:39:49:10" end="00:39:51:12">qu'à n'importe qui en un an.</p>
+      <p begin="00:39:53:18" end="00:39:55:13">Pas un fou de la parlote.</p>
+      <p begin="00:39:55:15" end="00:39:57:17">Je note.</p>
+      <p begin="00:39:59:01" end="00:40:01:03">J'ai un truc à l'oreille.</p>
+      <p begin="00:40:02:02" end="00:40:04:03">J'ai eu un accident, petit.</p>
+      <p begin="00:40:04:05" end="00:40:05:21">Avec ta mère, c'est ça ?</p>
+      <p begin="00:40:05:23" end="00:40:08:01">Oui. Et mon père.</p>
+      <p begin="00:40:09:01" end="00:40:11:03">Elle me manque.</p>
+      <p begin="00:40:11:21" end="00:40:14:00">- Je suis désolée.<br/>- Faut pas.</p>
+      <p begin="00:40:14:02" end="00:40:17:15">Je vis chez mon père adoptif,<br/>mais il est vieux,</p>
+      <p begin="00:40:17:17" end="00:40:19:15">c'est plutôt moi qui m'en occupe.</p>
+      <p begin="00:40:19:17" end="00:40:21:19">Je connais ça.</p>
+      <p begin="00:40:22:05" end="00:40:24:21">J'ai dû m'occuper de ma mère<br/>quand elle est tombée malade.</p>
+      <p begin="00:40:25:10" end="00:40:27:12">Ça paraît dur, mais...</p>
+      <p begin="00:40:27:14" end="00:40:30:06">après, ça manque,<br/>de s'occuper de quelqu'un.</p>
+      <p begin="00:40:31:18" end="00:40:34:10">Y a plus grand-chose qui me retient ici.</p>
+      <p begin="00:40:35:13" end="00:40:37:15">Ah non ?</p>
+      <p begin="00:40:40:09" end="00:40:42:05">Dis...</p>
+      <p begin="00:40:42:07" end="00:40:44:20">si on se revoyait un autre jour,</p>
+      <p begin="00:40:44:22" end="00:40:46:13">ailleurs ?</p>
+      <p begin="00:40:46:15" end="00:40:51:00">Tu veux dire ailleurs qu'à ton restau<br/>ou au lavomatic ?</p>
+      <p begin="00:40:51:02" end="00:40:53:12">C'est pas désagréable, mais...</p>
+      <p begin="00:40:53:14" end="00:40:55:18">On pourrait aller...</p>
+      <p begin="00:40:57:19" end="00:40:59:00">à la Bacchanale.</p>
+      <p begin="00:40:59:02" end="00:41:01:06">J'y suis jamais allée.<br/>C'est sympa, il paraît.</p>
+      <p begin="00:41:02:03" end="00:41:06:03">C'est la meilleure table<br/>des meilleures tablées de la ville.</p>
+      <p begin="00:41:06:05" end="00:41:08:05">Sympa !</p>
+      <p begin="00:41:08:07" end="00:41:10:19">Mais je fais des heures sup,<br/>cette semaine.</p>
+      <p begin="00:41:10:21" end="00:41:13:05">La semaine prochaine, tu fais quoi ?</p>
+      <p begin="00:41:13:07" end="00:41:14:08">Je sais pas.</p>
+      <p begin="00:41:14:10" end="00:41:15:12">J'oubliais.</p>
+      <p begin="00:41:15:14" end="00:41:17:12">Ils appellent, tu rappliques.</p>
+      <p begin="00:41:17:14" end="00:41:19:00">Non, je travaille pas.</p>
+      <p begin="00:41:19:02" end="00:41:20:16">T'es plus chauffeur ?</p>
+      <p begin="00:41:20:18" end="00:41:22:01">Non.</p>
+      <p begin="00:41:22:03" end="00:41:23:04">Désolée.</p>
+      <p begin="00:41:23:06" end="00:41:25:12">Non, c'est ce que je voulais.</p>
+      <p begin="00:41:25:14" end="00:41:27:16">Petit veinard, va.</p>
+      <p begin="00:41:43:23" end="00:41:46:08">C'est qui, Debora ?</p>
+      <p begin="00:41:46:23" end="00:41:49:01">La fille.</p>
+      <p begin="00:41:55:18" end="00:41:57:05"><span style="style.italic">Pourquoi avoir réagi ?</span></p>
+      <p begin="00:41:57:07" end="00:41:58:14">J'ai terminé.</p>
+      <p region="top" begin="00:41:58:16" end="00:42:00:05"><span style="style.italic">Ils ont débarqué dans la banque</span></p>
+      <p region="top" begin="00:42:00:07" end="00:42:01:21"><span style="style.italic">avec des masques,</span></p>
+      <p begin="00:42:01:23" end="00:42:04:01"><span style="style.italic">armes à la main, prêts à attaquer...</span></p>
+      <p region="top" begin="00:42:10:15" end="00:42:12:12">LES AFFRANCHIS</p>
+      <p begin="00:42:12:14" end="00:42:13:12">Des pizzas ?</p>
+      <p begin="00:42:13:14" end="00:42:15:22">On fête un truc ?</p>
+      <p region="top" begin="00:42:16:15" end="00:42:18:05">On fête ton futur</p>
+      <p region="top" begin="00:42:18:07" end="00:42:20:09">On fête ton futur<br/>boulot sérieux.</p>
+      <p begin="00:42:21:07" end="00:42:23:01">Quel genre de boulot ?</p>
+      <p region="top" begin="00:42:23:03" end="00:42:24:04">T'aimerais pas apporter</p>
+      <p region="top" begin="00:42:24:06" end="00:42:27:17">T'aimerais pas apporter<br/>de la joie chez les gens</p>
+      <p region="top" begin="00:42:27:19" end="00:42:30:23">T'aimerais pas apporter de la joie<br/>chez les gens en conduisant ?</p>
+      <p begin="00:42:32:00" end="00:42:34:02">Des pizzas ?</p>
+      <p begin="00:42:35:23" end="00:42:37:09">LES AFFRANCHIS</p>
+      <p begin="00:42:37:11" end="00:42:39:13">CHERCHE LIVREUR</p>
+      <p begin="00:43:01:06" end="00:43:02:16">C'était rapide !</p>
+      <p begin="00:43:02:18" end="00:43:04:20">Je sais.</p>
+      <p begin="00:43:15:19" end="00:43:17:18">Réfléchis...</p>
+      <p region="top" begin="00:43:17:20" end="00:43:20:00">Il suffit<br/>de te laver les mains une fois,</p>
+      <p region="top" begin="00:43:20:02" end="00:43:22:08">Il suffit de te laver les mains une fois,<br/>après avoir compté ça.</p>
+      <p begin="00:43:22:10" end="00:43:23:20">Je sais.</p>
+      <p region="top" begin="00:43:23:22" end="00:43:25:05">Sans mettre</p>
+      <p region="top" begin="00:43:25:07" end="00:43:27:00">Sans mettre<br/>d'autres vies</p>
+      <p region="top" begin="00:43:27:02" end="00:43:28:09">Sans mettre d'autres vies<br/>en danger.</p>
+      <p region="top" begin="00:43:28:11" end="00:43:32:00">Avec moi, personne te fera de mal.</p>
+      <p region="top" begin="00:43:33:02" end="00:43:34:12">Je parle pas</p>
+      <p region="top" begin="00:43:34:14" end="00:43:36:16">Je parle pas<br/>de moi.</p>
+      <p begin="00:44:19:14" end="00:44:21:22">C'est payé.<br/>Un monsieur a tout réglé.</p>
+      <p begin="00:44:22:00" end="00:44:24:02">Un monsieur ?</p>
+      <p begin="00:44:25:02" end="00:44:27:04">C'est qui ?</p>
+      <p begin="00:44:27:14" end="00:44:29:16">Mon ex-patron.</p>
+      <p begin="00:44:32:04" end="00:44:34:06">Excuse-moi un instant.</p>
+      <p begin="00:44:42:11" end="00:44:43:18">Bien mangé ?</p>
+      <p begin="00:44:43:20" end="00:44:46:15">La terrine de foie gras<br/>se pose là, non ?</p>
+      <p begin="00:44:48:02" end="00:44:50:05">T'es pas content de me voir ?</p>
+      <p begin="00:44:50:07" end="00:44:54:08">J'ai dit qu'on était quittes,<br/>mais tu croyais que c'était terminé ?</p>
+      <p begin="00:44:55:08" end="00:44:56:08">Oui.</p>
+      <p begin="00:44:56:10" end="00:44:59:05">Tu veux la bonne<br/>ou la mauvaise nouvelle ?</p>
+      <p begin="00:44:59:07" end="00:45:00:17">Y en a pas de mauvaise.</p>
+      <p begin="00:45:00:19" end="00:45:03:05">Bonne nouvelle :<br/>tu vas être plein aux as.</p>
+      <p begin="00:45:03:07" end="00:45:05:00">Et bonne nouvelle :</p>
+      <p begin="00:45:05:02" end="00:45:06:18">tu vas être plein aux as.</p>
+      <p begin="00:45:06:20" end="00:45:08:10">J'ai pris un boulot.</p>
+      <p begin="00:45:08:12" end="00:45:10:01">Pourquoi galérer</p>
+      <p begin="00:45:10:03" end="00:45:13:17">à livrer les pizzas des Affranchis<br/>pour te payer ce dîner ?</p>
+      <p begin="00:45:13:19" end="00:45:16:21">Tu peux faire fortune<br/>avec un vrai affranchi : moi.</p>
+      <p begin="00:45:16:23" end="00:45:20:17">Tu emmènerais ta nénette<br/>bouffer ici tous les soirs.</p>
+      <p begin="00:45:20:19" end="00:45:23:09">Tu as payé ta dette, profite un peu !</p>
+      <p begin="00:45:23:11" end="00:45:25:04">Là, ça devient marrant.</p>
+      <p begin="00:45:25:06" end="00:45:26:22">Après ce coup,</p>
+      <p begin="00:45:27:00" end="00:45:29:13">tu seras blindé, t'auras des Maserati</p>
+      <p begin="00:45:29:15" end="00:45:32:00">et elle mangera du poisson pané à l'or.</p>
+      <p begin="00:45:32:02" end="00:45:34:04">Alors, tu me suis ?</p>
+      <p begin="00:45:34:19" end="00:45:36:09">Je vous suis ?</p>
+      <p begin="00:45:36:11" end="00:45:38:09">Réponds pas par une question.</p>
+      <p begin="00:45:38:11" end="00:45:40:19">Une seule réponse : oui ou non.</p>
+      <p begin="00:45:42:19" end="00:45:44:21">Non, Doc.</p>
+      <p begin="00:45:45:15" end="00:45:48:12">Tu sais que je prends jamais<br/>la même équipe.</p>
+      <p begin="00:45:49:11" end="00:45:50:16">Oui.</p>
+      <p begin="00:45:50:18" end="00:45:53:02">Et que tu es mon chauffeur<br/>à chaque fois.</p>
+      <p begin="00:45:54:04" end="00:45:56:06">Oui.</p>
+      <p begin="00:45:56:22" end="00:46:00:16">Alors mon avis,<br/>c'est que tu me portes bonheur</p>
+      <p begin="00:46:01:03" end="00:46:03:18">et que je ferai pas ce coup-là sans toi.</p>
+      <p begin="00:46:04:22" end="00:46:07:05">Je t'épargne le topo<br/>sur ce qui arrivera, sinon :</p>
+      <p begin="00:46:07:07" end="00:46:11:00">je te démolis et je tue tes proches.<br/>Tu le sais déjà, non ?</p>
+      <p begin="00:46:12:12" end="00:46:14:10">Oui.</p>
+      <p begin="00:46:14:12" end="00:46:17:19">Tu prends quoi,<br/>le volant ou le fauteuil roulant ?</p>
+      <p begin="00:46:18:15" end="00:46:20:17">Le premier.</p>
+      <p begin="00:46:22:10" end="00:46:24:14">À demain matin.</p>
+      <p begin="00:46:24:16" end="00:46:26:18">Te couche pas trop tard.</p>
+      <p begin="00:46:29:11" end="00:46:31:13">Ta petite serveuse est jolie.</p>
+      <p begin="00:46:31:15" end="00:46:33:17">Faudrait pas que ça change.</p>
+      <p begin="00:46:39:07" end="00:46:42:22"><span style="style.italic">Eh bien,</span><br/><span style="style.italic">elle nous a bien régalés, cette tablée.</span></p>
+      <p begin="00:46:43:12" end="00:46:46:07">Tu dois avoir des amis haut placés.</p>
+      <p begin="00:46:47:00" end="00:46:49:02">Je dirais pas ça.</p>
+      <p begin="00:46:50:20" end="00:46:52:22">Tout va bien ?</p>
+      <p begin="00:46:56:03" end="00:46:57:21">Bientôt.</p>
+      <p begin="00:46:57:23" end="00:46:59:16">Tu veux qu'on en parle ?</p>
+      <p begin="00:46:59:18" end="00:47:01:20">Je fais hyper bien le café.</p>
+      <p begin="00:47:01:22" end="00:47:03:00">Enfin...</p>
+      <p begin="00:47:03:02" end="00:47:05:04">non, il est imbuvable.</p>
+      <p begin="00:47:06:06" end="00:47:08:12">J'ai très envie mais...</p>
+      <p begin="00:47:08:14" end="00:47:10:16">je peux pas, là.</p>
+      <p begin="00:47:12:16" end="00:47:14:20">T'as pas à t'inquiéter, avec moi.</p>
+      <p begin="00:47:15:15" end="00:47:17:04">Tu peux tout me dire.</p>
+      <p begin="00:47:17:06" end="00:47:18:10">Je m'inquiète pas.</p>
+      <p begin="00:47:18:12" end="00:47:20:14">Tu sais...</p>
+      <p begin="00:47:21:10" end="00:47:24:02">t'es ce qui m'est arrivé de mieux.</p>
+      <p begin="00:47:25:14" end="00:47:27:20">Et j'ai un peu peur</p>
+      <p begin="00:47:28:10" end="00:47:31:03">de pas être assez bien pour toi.</p>
+      <p begin="00:47:32:02" end="00:47:34:00">Alors là...</p>
+      <p begin="00:47:34:02" end="00:47:36:04">il faut pas.</p>
+      <p begin="00:47:37:02" end="00:47:41:03">Je vois bien que t'es gentil<br/>et pas comme les autres.</p>
+      <p begin="00:47:43:00" end="00:47:45:11">Je serai là quand tu seras prêt.</p>
+      <p begin="00:47:57:22" end="00:48:00:00">Tu fais quoi, demain ?</p>
+      <p begin="00:48:01:20" end="00:48:03:22">Tu vas me le dire.</p>
+      <p begin="00:48:26:08" end="00:48:28:10">Bonjour.</p>
+      <p begin="00:48:30:07" end="00:48:32:17">Ils ne se font jamais braquer.</p>
+      <p begin="00:48:32:19" end="00:48:35:08">Pourtant, c'est une mine d'or.</p>
+      <p begin="00:48:35:10" end="00:48:39:06">Ceux qui le savent n'ont pas les burnes<br/>de se risquer en plein jour.</p>
+      <p begin="00:48:39:15" end="00:48:42:23">Ce sera mûr demain,<br/>mais j'ai besoin de toi aujourd'hui.</p>
+      <p begin="00:48:43:15" end="00:48:45:16">Je peux pas y être vu, toi oui.</p>
+      <p begin="00:48:45:18" end="00:48:46:21">Tu y vas,</p>
+      <p begin="00:48:46:23" end="00:48:49:16">tu comptes les caméras,</p>
+      <p begin="00:48:49:18" end="00:48:51:05">les guichets ouverts,</p>
+      <p begin="00:48:51:07" end="00:48:53:20">les employés et les clients.</p>
+      <p begin="00:48:53:22" end="00:48:57:03">Y a-t-il un vigile ? Armé ?<br/>Le verre est-il blindé ?</p>
+      <p begin="00:48:57:18" end="00:49:00:00">Fais la queue, achète des timbres.</p>
+      <p begin="00:49:00:02" end="00:49:02:18">Retire tes écouteurs, tes lunettes.</p>
+      <p begin="00:49:03:11" end="00:49:04:17">Ah oui.</p>
+      <p begin="00:49:04:19" end="00:49:06:21">Prends le neveu. Moins louche.</p>
+      <p begin="00:49:39:23" end="00:49:42:10">Pas de verre blindé, un vigile armé,</p>
+      <p begin="00:49:42:12" end="00:49:43:15">dix caméras,</p>
+      <p begin="00:49:43:17" end="00:49:45:23">huit guichets, deux ouverts,</p>
+      <p begin="00:49:46:01" end="00:49:48:15">onze clients et quatre employés.</p>
+      <p begin="00:49:49:15" end="00:49:51:17">Merci.</p>
+      <p begin="00:49:55:21" end="00:49:57:23">Des timbres.</p>
+      <p begin="00:49:59:08" end="00:50:01:02">C'est votre fiston ?</p>
+      <p begin="00:50:01:04" end="00:50:02:18">C'est sûr.</p>
+      <p begin="00:50:02:20" end="00:50:03:22">Oui, c'est mon fils.</p>
+      <p begin="00:50:04:00" end="00:50:06:02">Il a quel âge ?</p>
+      <p begin="00:50:06:15" end="00:50:07:11">Quatre ans.</p>
+      <p begin="00:50:07:13" end="00:50:09:05">Huit ans.</p>
+      <p begin="00:50:09:07" end="00:50:11:09">On les voit pas grandir, hein ?</p>
+      <p begin="00:50:13:17" end="00:50:15:19">Comment il s'appelle ?</p>
+      <p begin="00:50:16:11" end="00:50:17:19">Comment tu t'appelles ?</p>
+      <p begin="00:50:17:21" end="00:50:18:22">Samm.</p>
+      <p begin="00:50:19:00" end="00:50:20:06">Samm,</p>
+      <p begin="00:50:20:08" end="00:50:21:23">ce bonbon n'attendait que toi.</p>
+      <p begin="00:50:22:01" end="00:50:24:13">Y a un bonbon qui m'attendait, moi ?</p>
+      <p begin="00:50:26:00" end="00:50:28:03">Il est à croquer.</p>
+      <p begin="00:50:28:05" end="00:50:30:06">- Vous serez là demain ?<br/>- Oui.</p>
+      <p begin="00:50:30:08" end="00:50:32:10">9 h - 17 h, comme Dolly.</p>
+      <p begin="00:50:33:07" end="00:50:35:09">Dolly Parton.</p>
+      <p begin="00:50:35:20" end="00:50:37:22">- Je l'aime bien.<br/>- Comme tout le monde.</p>
+      <p begin="00:50:38:00" end="00:50:40:05"><span style="style.italic">On veut tous être heureux dans la vie</span></p>
+      <p begin="00:50:40:07" end="00:50:42:16"><span style="style.italic">Mais l'arc-en-ciel a besoin de pluie</span></p>
+      <p begin="00:50:43:01" end="00:50:45:06">Quelle sagesse !</p>
+      <p begin="00:50:45:08" end="00:50:47:10">C'est sûr.</p>
+      <p begin="00:50:58:08" end="00:51:00:10">J'écoute.</p>
+      <p begin="00:51:00:12" end="00:51:01:19">Pas de verre blindé,</p>
+      <p begin="00:51:01:21" end="00:51:03:18">un vigile armé,</p>
+      <p begin="00:51:03:20" end="00:51:04:22">dix caméras,</p>
+      <p begin="00:51:05:00" end="00:51:07:05">huit guichets, trois ouverts</p>
+      <p begin="00:51:07:20" end="00:51:10:15">et onze clients.</p>
+      <p begin="00:51:14:07" end="00:51:16:02">Et quatre employés.</p>
+      <p begin="00:51:16:04" end="00:51:18:06">Autre chose ?</p>
+      <p begin="00:51:18:08" end="00:51:19:22">La guichetière est sympa.</p>
+      <p begin="00:51:20:00" end="00:51:21:14">Elle m'a donné un bonbon.</p>
+      <p begin="00:51:21:16" end="00:51:23:06">Ah oui ?</p>
+      <p begin="00:51:23:08" end="00:51:25:19">Pas besoin de flingue, avec elle.</p>
+      <p begin="00:51:25:21" end="00:51:29:05">On lui fait “bouh !“<br/>et elle crachera les gros biffetons.</p>
+      <p begin="00:51:30:08" end="00:51:32:10">Il a de qui tenir.</p>
+      <p begin="00:51:40:19" end="00:51:42:21">Tu es à quel étage ?</p>
+      <p begin="00:51:43:12" end="00:51:44:19">Au troisième.</p>
+      <p begin="00:51:44:21" end="00:51:48:05">L'escalier,<br/>ça doit être pénible pour Joe.</p>
+      <p begin="00:51:49:09" end="00:51:51:07">C'est mon métier de tout savoir.</p>
+      <p begin="00:51:51:09" end="00:51:53:14">Alors, c'est pénible ?</p>
+      <p begin="00:51:53:16" end="00:51:55:18">Y a un ascenseur.</p>
+      <p begin="00:51:57:08" end="00:51:59:10">La classe !</p>
+      <p begin="00:52:00:08" end="00:52:02:15">Bon, je te vois ce soir ?</p>
+      <p begin="00:52:04:04" end="00:52:05:06">Oui, j'y serai.</p>
+      <p begin="00:52:05:08" end="00:52:07:22">Tu ne dis pas ça<br/>pour me faire plaisir ?</p>
+      <p begin="00:52:08:00" end="00:52:10:03">Je suis un ami, pour toi, non ?</p>
+      <p begin="00:52:11:17" end="00:52:15:12">On forme une équipe.<br/>Ce qui compte, c'est notre amitié.</p>
+      <p begin="00:52:16:08" end="00:52:17:19">Content de le savoir.</p>
+      <p begin="00:52:17:21" end="00:52:20:01">C'est bientôt fini, le trou à rats.</p>
+      <p begin="00:52:20:23" end="00:52:23:01">Tu grimpes l'échelle sociale !</p>
+      <p begin="00:52:32:23" end="00:52:34:15">Bo's Diner, c'est pour quoi ?</p>
+      <p begin="00:52:34:17" end="00:52:36:05"><span style="style.italic">Debora est là ?</span></p>
+      <p begin="00:52:36:07" end="00:52:38:10">Debbie, téléphone.</p>
+      <p begin="00:52:38:12" end="00:52:40:14">Abrège.</p>
+      <p begin="00:52:41:20" end="00:52:43:22"><span style="style.italic">C'est Baby.</span></p>
+      <p begin="00:52:44:12" end="00:52:46:14">Que me vaut cet honneur ?</p>
+      <p begin="00:52:47:09" end="00:52:49:14"><span style="style.italic">Je voulais entendre ta voix.</span></p>
+      <p begin="00:52:49:16" end="00:52:51:15">On se voit toujours, ce soir ?</p>
+      <p begin="00:52:51:17" end="00:52:53:17"><span style="style.italic">Je conduis à nouveau.</span></p>
+      <p begin="00:52:53:19" end="00:52:55:10">D'accord.</p>
+      <p begin="00:52:55:12" end="00:52:57:06">Je croyais que c'était fini.</p>
+      <p begin="00:52:57:08" end="00:52:59:06"><span style="style.italic">Moi aussi.</span></p>
+      <p begin="00:52:59:08" end="00:53:01:13"><span style="style.italic">C'est pas ce que je veux.</span></p>
+      <p begin="00:53:01:15" end="00:53:03:17">C'est quoi, que tu veux ?</p>
+      <p begin="00:53:04:12" end="00:53:07:04">Je veux qu'on parte vers l'ouest<br/>sur la 20</p>
+      <p begin="00:53:07:19" end="00:53:10:04">dans une voiture super chère</p>
+      <p begin="00:53:10:16" end="00:53:12:18">et l'horizon ouvert.</p>
+      <p begin="00:53:14:13" end="00:53:16:15">Sans jamais s'arrêter.</p>
+      <p begin="00:53:17:08" end="00:53:18:18">T'es sérieux ?</p>
+      <p begin="00:53:18:20" end="00:53:20:22"><span style="style.italic">Oui, Debora.</span></p>
+      <p begin="00:53:21:16" end="00:53:23:14">Tu me suis ?</p>
+      <p begin="00:53:23:16" end="00:53:25:15">Je te suis, Baby.</p>
+      <p begin="00:53:25:17" end="00:53:27:19"><span style="style.italic">À tout à l'heure.</span></p>
+      <p begin="00:53:45:12" end="00:53:47:14">Le voilà.</p>
+      <p begin="00:53:49:16" end="00:53:51:02">Monsieur J'entends rien.</p>
+      <p begin="00:53:51:04" end="00:53:53:15">- Tu l'as vu rouler ?<br/>- Oui.</p>
+      <p begin="00:53:53:17" end="00:53:57:00">Doc l'aime bien parce qu'il se gare<br/>sur la place handicapé.</p>
+      <p begin="00:53:57:08" end="00:53:59:09">Handicapé ?</p>
+      <p begin="00:53:59:11" end="00:54:01:17">Ses oreilles déconnent.<br/>Un acouphène.</p>
+      <p begin="00:54:01:19" end="00:54:04:09">Il écoute de la musique tout le temps</p>
+      <p begin="00:54:04:11" end="00:54:06:18">pour couvrir le sifflement.</p>
+      <p begin="00:54:06:20" end="00:54:07:15">Putain !</p>
+      <p begin="00:54:07:17" end="00:54:09:14">Vous savez qui a la même chose</p>
+      <p begin="00:54:09:16" end="00:54:11:18">et fait la même chose ?</p>
+      <p begin="00:54:12:12" end="00:54:13:19">Barbra Streisand.</p>
+      <p begin="00:54:13:21" end="00:54:17:03">J'ai une tronche à m'intéresser<br/>à Barbra Streisand, putain ?</p>
+      <p begin="00:54:17:12" end="00:54:19:15">Surveille ton langage avec ma femme.</p>
+      <p begin="00:54:22:04" end="00:54:23:14">Surveille ton langage.</p>
+      <p begin="00:54:23:16" end="00:54:25:18">Je surveille ce que je veux.</p>
+      <p begin="00:54:31:06" end="00:54:32:05">C'est vrai ?</p>
+      <p begin="00:54:32:07" end="00:54:34:20">T'écoutes de la musique<br/>pour noyer le bruit ?</p>
+      <p begin="00:54:35:16" end="00:54:37:22">Oui. Comme ça, je reste d'attaque.</p>
+      <p begin="00:54:38:09" end="00:54:41:04">Tu t'évades. Je vois.</p>
+      <p begin="00:54:41:06" end="00:54:43:13">T'as pas vu le violon ?<br/>Faut sortir les violons !</p>
+      <p begin="00:54:44:01" end="00:54:46:03">Ta gueule.</p>
+      <p begin="00:54:47:18" end="00:54:49:20">Gamin, je bricolais des bagnoles.</p>
+      <p begin="00:54:49:22" end="00:54:53:13">Je conduisais toute la nuit<br/>à toute berzingue, radio à fond.</p>
+      <p begin="00:54:54:05" end="00:54:58:15">J'avais une cassette préférée,<br/>avec mon titre qui tue. Un vrai shoot.</p>
+      <p begin="00:54:58:17" end="00:55:00:19">T'as ça, toi ?</p>
+      <p begin="00:55:00:21" end="00:55:02:07">Oui.</p>
+      <p begin="00:55:02:09" end="00:55:03:22">C'est quoi ?</p>
+      <p begin="00:55:04:00" end="00:55:05:19"><span style="style.italic">“Brighton Rock“.</span></p>
+      <p begin="00:55:05:21" end="00:55:07:23">Queen ?</p>
+      <p begin="00:55:09:06" end="00:55:12:03">Un solo de guitare de dingue.<br/>Je connais.</p>
+      <p begin="00:55:12:05" end="00:55:15:08">Mon frère jouait <span style="style.italic">Sheer Heart Attack</span><br/>à fond.</p>
+      <p begin="00:55:15:17" end="00:55:17:04">Tu l'as, là ?</p>
+      <p begin="00:55:17:06" end="00:55:19:11">Sur celui-là.</p>
+      <p begin="00:55:19:13" end="00:55:20:11">Mets-le.</p>
+      <p begin="00:55:20:13" end="00:55:22:15">Voyons le titre qui tue.</p>
+      <p begin="00:55:40:09" end="00:55:43:02">- Vous écoutez quoi, les filles ?<br/>- Queen.</p>
+      <p begin="00:55:43:21" end="00:55:45:12">Streisand, et là Queen ?</p>
+      <p begin="00:55:45:14" end="00:55:48:05">Vous allez faire les divas, en route ?</p>
+      <p begin="00:55:48:16" end="00:55:50:11">Pas de zik pour piquer du fric.</p>
+      <p begin="00:55:50:13" end="00:55:52:00">Il suffit</p>
+      <p begin="00:55:52:02" end="00:55:53:22">de foutre les gaz</p>
+      <p begin="00:55:54:00" end="00:55:57:10">et de tenir le volant.<br/>La vraie musique, c'est ça.</p>
+      <p begin="00:55:58:01" end="00:56:00:06">Putain...</p>
+      <p begin="00:56:00:08" end="00:56:03:20">T'as jamais fait chauffeur ?<br/>T'as pas de titre porte-bonheur ?</p>
+      <p begin="00:56:04:05" end="00:56:06:15">Avec la cigarette, après l'action,</p>
+      <p begin="00:56:06:17" end="00:56:08:23">avec un scotch, absolument.</p>
+      <p begin="00:56:09:01" end="00:56:11:06">Mais pas avant un coup.</p>
+      <p begin="00:56:11:08" end="00:56:13:00">Mes démons, là-haut,</p>
+      <p begin="00:56:13:02" end="00:56:14:15">me font la sérénade.</p>
+      <p begin="00:56:14:17" end="00:56:16:07">Je te crois.</p>
+      <p begin="00:56:16:09" end="00:56:20:19">J'ai un pote qui a lâché un braquage<br/>à cause d'un titre à la radio.</p>
+      <p begin="00:56:20:21" end="00:56:23:20">On se lance, il sort pas de la caisse.<br/>Pourquoi ?</p>
+      <p begin="00:56:23:22" end="00:56:27:11">Y avait <span style="style.italic">“Knockin' On Heaven's Door“</span><br/>à la radio.</p>
+      <p begin="00:56:27:13" end="00:56:29:02">Une “chanson maudite“.</p>
+      <p begin="00:56:29:04" end="00:56:33:15">Comme <span style="style.italic">“End Of The Road“</span> de Boyz II Men,<br/><span style="style.italic">“Hotel California“</span> des Eagles.</p>
+      <p begin="00:56:33:17" end="00:56:34:19">“Chansons maudites“.</p>
+      <p begin="00:56:34:21" end="00:56:37:15">Il se mettait à délirer,<br/>genre “On va mourir“.</p>
+      <p begin="00:56:37:17" end="00:56:39:03">T'as laissé tomber ?</p>
+      <p begin="00:56:39:05" end="00:56:40:11">Tu déconnes ?</p>
+      <p begin="00:56:40:13" end="00:56:42:03">J'ai chopé le pognon.</p>
+      <p begin="00:56:42:05" end="00:56:44:06">Et personne n'est mort.</p>
+      <p begin="00:56:44:08" end="00:56:46:15">Enfin, il s'est fait buter plus tard,</p>
+      <p begin="00:56:46:17" end="00:56:48:22">mais aucun rapport.</p>
+      <p begin="00:56:49:00" end="00:56:51:02">Y a toujours un mort, à la fin ?</p>
+      <p begin="00:56:52:21" end="00:56:54:23">Tu verras bien.</p>
+      <p begin="00:56:57:02" end="00:57:00:17">Je veux quatre paires d'yeux<br/>et trois paires d'oreilles.</p>
+      <p begin="00:57:12:01" end="00:57:14:03">L'Office des postes se meurt.</p>
+      <p begin="00:57:14:05" end="00:57:16:07">Les gens se foutent de leur courrier.</p>
+      <p begin="00:57:16:09" end="00:57:19:20">Tant mieux. Le malheur des uns<br/>fait le bonheur des autres.</p>
+      <p begin="00:57:21:05" end="00:57:22:15">Des mandats postaux.</p>
+      <p begin="00:57:22:17" end="00:57:25:12">J'ai un ami qui sait y faire.</p>
+      <p begin="00:57:25:14" end="00:57:28:11">Il transforme les mandats vierges<br/>en billets verts.</p>
+      <p begin="00:57:28:13" end="00:57:31:23">Chaque carton contient 250 mandats.</p>
+      <p begin="00:57:32:01" end="00:57:36:11">Chaque mandat vaut jusqu'à 1 000 $.<br/>250 000 par carton.</p>
+      <p begin="00:57:36:13" end="00:57:38:08">Je vous laisse faire le calcul.</p>
+      <p begin="00:57:38:10" end="00:57:40:05">Darling entre en premier.</p>
+      <p begin="00:57:40:07" end="00:57:43:13">Buddy compte jusqu'à cinq et la suit.</p>
+      <p begin="00:57:43:15" end="00:57:46:11">Vous mettrez<br/>ces lunettes anti-reconnaissance</p>
+      <p begin="00:57:46:13" end="00:57:48:15">pour aveugler la caméra de sécurité.</p>
+      <p begin="00:57:48:23" end="00:57:50:11">On recompte jusqu'à 5.</p>
+      <p begin="00:57:50:13" end="00:57:52:07">Darling fait la queue,</p>
+      <p begin="00:57:52:09" end="00:57:54:23">Buddy la prend en otage,<br/>flingue sur la tempe.</p>
+      <p begin="00:57:55:01" end="00:57:57:05">Vous entrez dans les bureaux.</p>
+      <p begin="00:57:57:17" end="00:57:59:19">On joue à ça très souvent.</p>
+      <p begin="00:58:01:05" end="00:58:03:08">Baby conduit Bats<br/>à la zone de livraison.</p>
+      <p begin="00:58:03:10" end="00:58:07:09">Bats utilise le badge fourni<br/>par une taupe aux narines gourmandes</p>
+      <p begin="00:58:07:11" end="00:58:09:17">pour entrer par l'entrée de service.</p>
+      <p begin="00:58:09:19" end="00:58:13:22">Vous prenez les cartons<br/>et sortez par l'arrière, où Baby attend.</p>
+      <p begin="00:58:18:02" end="00:58:20:04">Tu as tout compris ?</p>
+      <p begin="00:58:21:07" end="00:58:24:03">Dernière chose :<br/>il nous faut des outils neufs,</p>
+      <p begin="00:58:24:05" end="00:58:26:20">qu'on ne puisse relier à nous.</p>
+      <p begin="00:58:26:22" end="00:58:31:03">Je nous ai trouvé un armement neuf,<br/>à récupérer ce soir.</p>
+      <p begin="00:58:31:05" end="00:58:33:15">Immédiatement après, vous revenez ici.</p>
+      <p begin="00:58:33:17" end="00:58:36:11">Vous vous levez tôt<br/>et il faut être discrets,</p>
+      <p begin="00:58:36:13" end="00:58:37:19">donc</p>
+      <p begin="00:58:37:21" end="00:58:39:23">vous dormez ici.</p>
+      <p begin="00:58:40:22" end="00:58:43:00">On est dans les mêmes draps.</p>
+      <p begin="00:59:09:21" end="00:59:12:01">Gare-toi là, faut que je pisse.</p>
+      <p begin="00:59:14:11" end="00:59:15:17">Des chewing-gums ?</p>
+      <p begin="00:59:15:19" end="00:59:18:03">- Chewing-gums ?<br/>- Je veux bien.</p>
+      <p begin="00:59:21:11" end="00:59:24:07">On va faire quoi, avec tout cet argent ?</p>
+      <p begin="00:59:24:09" end="00:59:27:21">On va à Vegas, on met tout sur le rouge,</p>
+      <p begin="00:59:27:23" end="00:59:29:13">on se remarie.</p>
+      <p begin="00:59:29:15" end="00:59:31:17">Très romantique.</p>
+      <p begin="00:59:32:13" end="00:59:35:05">Tu sais ce que j'ai trouvé<br/>ultra romantique ?</p>
+      <p begin="00:59:35:07" end="00:59:37:09">Qu'est-ce qui était ultra romantique ?</p>
+      <p begin="00:59:37:22" end="00:59:40:00">Quand t'as poignardé le type.</p>
+      <p begin="00:59:40:14" end="00:59:44:22">Celui qui t'a fait les poches,<br/>traitée de pute, ou reluquée ?</p>
+      <p begin="00:59:45:13" end="00:59:46:11">Le dernier.</p>
+      <p begin="00:59:46:13" end="00:59:48:15">Oui, je m'en souviens.</p>
+      <p begin="00:59:49:06" end="00:59:51:18">Bats vient de me reluquer.</p>
+      <p begin="00:59:54:14" end="00:59:56:16">Tu veux que je le tue ?</p>
+      <p begin="00:59:57:01" end="00:59:59:09">Pas avant le coup, bêta.</p>
+      <p begin="01:00:01:06" end="01:00:03:08">On devrait vraiment<br/>en parler devant Baby ?</p>
+      <p begin="01:00:04:01" end="01:00:06:21">Il dira rien.<br/>Hein, Baby ?</p>
+      <p begin="01:00:10:07" end="01:00:12:23">Nom de Dieu !<br/>T'as piqué tout ça ?</p>
+      <p begin="01:00:13:15" end="01:00:16:15">Tu voulais des chewing-gums.<br/>J'allais pas raquer.</p>
+      <p begin="01:00:16:17" end="01:00:18:19">Roule.</p>
+      <p begin="01:00:29:14" end="01:00:31:12">Tiens, le marché est ouvert.</p>
+      <p begin="01:00:31:14" end="01:00:32:22">Le marché ?</p>
+      <p begin="01:00:33:00" end="01:00:35:14">Oui, faut qu'on aille voir<br/>le Charcutier.</p>
+      <p begin="01:01:12:23" end="01:01:14:20">Tu viens avec nous.</p>
+      <p begin="01:01:14:22" end="01:01:17:00">On change de caisse.</p>
+      <p begin="01:01:23:14" end="01:01:25:16">Trouve-nous du bon son.</p>
+      <p begin="01:01:26:02" end="01:01:28:07">Au cas où ça bastonne.</p>
+      <p begin="01:01:31:00" end="01:01:34:04">Prends ça.<br/>Fais semblant de savoir t'en servir.</p>
+      <p begin="01:01:34:06" end="01:01:35:20">Pourquoi ?</p>
+      <p begin="01:01:35:22" end="01:01:39:16">Faut faire genre, histoire<br/>de pas avoir l'air de gonzesses.</p>
+      <p begin="01:01:39:18" end="01:01:41:20">Sauf Darling.</p>
+      <p begin="01:01:43:18" end="01:01:46:02">Des écouteurs ?<br/>Il enregistre, ou quoi ?</p>
+      <p begin="01:01:46:15" end="01:01:49:07">- C'est sa musique.<br/>- Il est dingo, comme le chien.</p>
+      <p begin="01:01:50:12" end="01:01:51:21">Il écoute quoi ?</p>
+      <p begin="01:01:51:23" end="01:01:53:12">J'en sais rien.</p>
+      <p begin="01:01:53:14" end="01:01:55:16">J'écoute.</p>
+      <p begin="01:01:58:19" end="01:02:00:04">“Tequila“ !</p>
+      <p begin="01:02:00:06" end="01:02:01:04">À propos :</p>
+      <p begin="01:02:01:06" end="01:02:04:09">que dit un Mexicain<br/>quand il voit l'amant de sa femme ?</p>
+      <p begin="01:02:04:11" end="01:02:06:13">Loupé.</p>
+      <p begin="01:02:07:03" end="01:02:08:22">On se connaît, non ?</p>
+      <p begin="01:02:09:00" end="01:02:11:02">T'es encore vivant ?</p>
+      <p begin="01:02:11:22" end="01:02:14:00">Alors on se connaît pas.</p>
+      <p begin="01:02:14:22" end="01:02:15:17">Vos gueules !</p>
+      <p begin="01:02:15:19" end="01:02:17:16">Je m'en occupe.</p>
+      <p begin="01:02:17:18" end="01:02:19:20">Je m'en occupe.</p>
+      <p begin="01:02:22:08" end="01:02:25:04">Bienvenue à “la charcuterie“.</p>
+      <p begin="01:02:26:00" end="01:02:27:16">Ce soir, messieurs,</p>
+      <p begin="01:02:27:18" end="01:02:29:08">madame,</p>
+      <p begin="01:02:29:10" end="01:02:33:11">nous avons les meilleurs morceaux,<br/>préparés au fumoir local.</p>
+      <p begin="01:02:34:08" end="01:02:36:04">En tant que charcutiers<br/>expérimentés,</p>
+      <p begin="01:02:36:06" end="01:02:38:21">vous savez sans doute<br/>que le modeste cochon</p>
+      <p begin="01:02:38:23" end="01:02:40:17">se déguste du groin à la queue,</p>
+      <p begin="01:02:40:19" end="01:02:42:10">tout sauf le cri.</p>
+      <p begin="01:02:42:12" end="01:02:44:15">Je vous propose neuf belles pièces,</p>
+      <p begin="01:02:45:06" end="01:02:47:04">au meilleur prix ici-bas.</p>
+      <p begin="01:02:47:06" end="01:02:49:01">Parlons peu parlons bien.</p>
+      <p begin="01:02:49:03" end="01:02:50:08">Des bajoues,</p>
+      <p begin="01:02:50:10" end="01:02:53:16">un don du ciel :<br/>le bacon romain, ou <span style="style.italic">guanciale</span> .</p>
+      <p begin="01:02:53:18" end="01:02:55:05">De l'épaule du porc,</p>
+      <p begin="01:02:55:07" end="01:02:57:08">la palette, coriace</p>
+      <p begin="01:02:57:10" end="01:02:58:22">mais savoureuse.</p>
+      <p begin="01:02:59:00" end="01:03:01:00">Le jarret rappellera...</p>
+      <p begin="01:03:01:02" end="01:03:02:12">POLICE D'ATLANTA</p>
+      <p begin="01:03:02:14" end="01:03:04:08">le goût du poulet fumé.</p>
+      <p begin="01:03:04:10" end="01:03:07:22">Milieu de longe, côtelettes papillon,<br/>travers de porc, poitrine,</p>
+      <p begin="01:03:08:00" end="01:03:11:04">et jambon serrano,<br/>à l'arrière, naturellement.</p>
+      <p begin="01:03:11:06" end="01:03:13:08">Tous délicieux.</p>
+      <p begin="01:03:13:19" end="01:03:17:16">Et bien sûr,<br/>une jolie sélection de saucisses.</p>
+      <p begin="01:03:17:18" end="01:03:19:20">J'ai faim.</p>
+      <p begin="01:03:20:15" end="01:03:22:12">Et vous prendrez... ?</p>
+      <p begin="01:03:22:14" end="01:03:25:02">Le jarret, parce que...</p>
+      <p begin="01:03:25:18" end="01:03:27:20">j'adore le poulet fumé.</p>
+      <p begin="01:04:00:22" end="01:04:03:00">Affaire conclue.</p>
+      <p begin="01:04:04:14" end="01:04:06:16">Fils de pute.</p>
+      <p begin="01:04:06:18" end="01:04:09:09">Putain !<br/>Ma femme a été touchée, ça craint.</p>
+      <p begin="01:04:09:11" end="01:04:11:04">Détends-toi, t'as assuré.</p>
+      <p begin="01:04:11:06" end="01:04:13:18">Putain, connard,<br/>t'as buté les armuriers.</p>
+      <p begin="01:04:13:20" end="01:04:16:18">- Les contacts de Doc, non ?<br/>- Oui !</p>
+      <p begin="01:04:16:20" end="01:04:19:20">C'étaient des flics.<br/>Regardez : “Police d'Atlanta“.</p>
+      <p begin="01:04:19:22" end="01:04:24:05">Je l'ai reconnu direct,<br/>le gros lardon au faux béret Vuitton.</p>
+      <p begin="01:04:24:07" end="01:04:25:22">Il m'a ferré en 98.</p>
+      <p begin="01:04:26:00" end="01:04:28:20">Vous baisez peut-être sans capote,</p>
+      <p begin="01:04:28:22" end="01:04:32:02">mais quand on veut me griller,<br/>je passe en mode warrior !</p>
+      <p begin="01:04:32:22" end="01:04:33:21">Baby, chope-le !</p>
+      <p begin="01:04:33:23" end="01:04:36:01">Fais quelque chose !</p>
+      <p begin="01:04:46:23" end="01:04:48:20">Tire-nous de là, Baby.</p>
+      <p begin="01:04:48:22" end="01:04:51:00">Allez, magne-toi.</p>
+      <p begin="01:05:21:07" end="01:05:23:05">Putain, t'es taré.</p>
+      <p begin="01:05:23:07" end="01:05:25:18">Être appelé Bats par ses parents,<br/>ça rend taré.</p>
+      <p begin="01:05:25:20" end="01:05:27:14">C'est clair que t'es taré,</p>
+      <p begin="01:05:27:16" end="01:05:29:12">mais c'est pas ton prénom, Bats.</p>
+      <p begin="01:05:29:14" end="01:05:30:20">Que tu dis.</p>
+      <p begin="01:05:30:22" end="01:05:32:18">Tu crois que moi, c'est Darling ?</p>
+      <p begin="01:05:32:20" end="01:05:35:16">Ou Buddy ? C'est des surnoms.</p>
+      <p begin="01:05:35:18" end="01:05:37:20">Des noms de code, des sobriquets.</p>
+      <p begin="01:05:38:12" end="01:05:40:21">C'est quoi ton vrai nom, Darling ?</p>
+      <p begin="01:05:40:23" end="01:05:42:20">Monica.</p>
+      <p begin="01:05:42:22" end="01:05:45:05">On a le droit de parler de nos noms ?</p>
+      <p begin="01:05:45:07" end="01:05:47:04">Non.</p>
+      <p begin="01:05:47:06" end="01:05:49:08">Et toi, c'est quoi ?</p>
+      <p begin="01:05:53:03" end="01:05:55:05">Arrête-toi là.</p>
+      <p begin="01:05:55:14" end="01:05:57:16">Arrête-toi !</p>
+      <p begin="01:05:58:02" end="01:06:00:04">Arrête-toi, j'ai la dalle.</p>
+      <p begin="01:06:00:15" end="01:06:02:12">Non.</p>
+      <p begin="01:06:02:14" end="01:06:04:16">Arrête la bagnole !</p>
+      <p begin="01:06:06:14" end="01:06:07:22">Non ?</p>
+      <p begin="01:06:08:00" end="01:06:10:02">Tu me dis non ?</p>
+      <p begin="01:06:10:14" end="01:06:12:00">Je veux pas y aller.</p>
+      <p begin="01:06:12:02" end="01:06:14:04">Je veux pas y aller.</p>
+      <p begin="01:06:14:18" end="01:06:16:12">Salut, Baby.</p>
+      <p begin="01:06:16:14" end="01:06:18:04">Les cadavres, tu t'en fous</p>
+      <p begin="01:06:18:06" end="01:06:21:10">et tu te crispes<br/>parce que je veux aller là ?</p>
+      <p begin="01:06:22:23" end="01:06:25:02">Je veux pas aller là, c'est naze.</p>
+      <p begin="01:06:25:04" end="01:06:27:04">Vu la recommandation,</p>
+      <p begin="01:06:27:06" end="01:06:29:08">on y va.</p>
+      <p begin="01:06:58:10" end="01:07:01:04"><span style="style.italic">Pourquoi vous faites la gueule ?</span><br/><span style="style.italic">Remerciez-moi.</span></p>
+      <p begin="01:07:01:06" end="01:07:03:02">D'être un putain de croquemort ?</p>
+      <p begin="01:07:03:04" end="01:07:05:14">Je vis chaque coup comme le dernier.</p>
+      <p begin="01:07:05:16" end="01:07:08:01">Mais ce que tu fais dans ce groupe<br/>nous affecte tous.</p>
+      <p begin="01:07:08:03" end="01:07:10:11">T'auras ton fric, demain.</p>
+      <p begin="01:07:12:00" end="01:07:14:02">Et vous avez des narines à nourrir.</p>
+      <p begin="01:07:14:04" end="01:07:17:06">- T'es pas Monsieur Propre.<br/>- Je suis ce que je veux.</p>
+      <p begin="01:07:18:22" end="01:07:20:09">Vous buvez quelque chose ?</p>
+      <p begin="01:07:20:11" end="01:07:22:13">Tournée de coca.</p>
+      <p begin="01:07:23:02" end="01:07:24:14">Chez toi, on prononce “koka“ ?</p>
+      <p begin="01:07:24:16" end="01:07:27:10">Trois cocas et un “koka“.</p>
+      <p begin="01:07:27:12" end="01:07:29:14">Quatre cocas.</p>
+      <p begin="01:07:32:04" end="01:07:33:20">Je t'explique.</p>
+      <p begin="01:07:33:22" end="01:07:37:14">Tu braques pour te droguer.<br/>Je me drogue pour braquer.</p>
+      <p begin="01:07:37:16" end="01:07:39:18">- Malin.<br/>- C'est mon boulot.</p>
+      <p begin="01:07:40:07" end="01:07:42:05">Pour vous, c'est des vacances.</p>
+      <p begin="01:07:42:07" end="01:07:44:17">- Tu doutes de nos références ?<br/>- Wall Street ?</p>
+      <p begin="01:07:44:19" end="01:07:47:00">- Doc t'a dit ça ?<br/>- Il m'a dit que dalle.</p>
+      <p begin="01:07:48:17" end="01:07:50:17">Déduction savante</p>
+      <p begin="01:07:50:19" end="01:07:52:18">d'un homme pas très savant.</p>
+      <p begin="01:07:52:20" end="01:07:55:01">Continue, ça m'intéresse.</p>
+      <p begin="01:07:55:03" end="01:07:56:18">Dis-moi si je délire.</p>
+      <p begin="01:07:56:20" end="01:07:58:13">T'étais agent de change.</p>
+      <p begin="01:07:58:15" end="01:08:00:17">Une autre femme, des mômes.</p>
+      <p begin="01:08:01:17" end="01:08:05:19">Tu palpes, mais tu veux monter plus haut.<br/>Tu montes trop haut.</p>
+      <p begin="01:08:05:21" end="01:08:09:15">T'accumules des dettes<br/>à faire rougir même un Blanc.</p>
+      <p begin="01:08:10:03" end="01:08:11:06">Ça barde,</p>
+      <p begin="01:08:11:08" end="01:08:13:11">tu te fais prendre<br/>la main dans le sac.</p>
+      <p begin="01:08:13:13" end="01:08:16:18">Tu te barres à Vegas<br/>avec ta stripeuse préférée.</p>
+      <p begin="01:08:16:20" end="01:08:18:15">Tu cherches trois choses :</p>
+      <p begin="01:08:18:17" end="01:08:20:09">fric, sexe,</p>
+      <p begin="01:08:20:11" end="01:08:22:15">drogue et action.</p>
+      <p begin="01:08:24:15" end="01:08:26:17">Ça fait quatre.</p>
+      <p begin="01:08:28:00" end="01:08:30:02">Je brûle ?</p>
+      <p begin="01:08:30:11" end="01:08:33:03">Je crois que pour vous, c'est un trip.</p>
+      <p begin="01:08:34:07" end="01:08:36:11">Et si tu viens de Wall Street,</p>
+      <p begin="01:08:36:13" end="01:08:38:15">t'es un plus gros escroc que moi.</p>
+      <p begin="01:08:43:03" end="01:08:45:19">Je vais parler pour nous deux.</p>
+      <p begin="01:08:50:15" end="01:08:52:13">Tu crois nous connaître ?</p>
+      <p begin="01:08:52:15" end="01:08:54:21">T'as tort.</p>
+      <p begin="01:08:54:23" end="01:08:57:03">Tu crois que t'es le pire des tarés ?</p>
+      <p begin="01:08:58:15" end="01:09:00:17">Eh non.</p>
+      <p begin="01:09:00:19" end="01:09:04:21">Et crois-moi, t'as pas intérêt<br/>à voir Buddy quand il se fâche.</p>
+      <p begin="01:09:06:00" end="01:09:09:09">T'as pas vu à quel point<br/>il est déchaîné.</p>
+      <p begin="01:09:09:11" end="01:09:11:17">Parce que quand il voit rouge,</p>
+      <p begin="01:09:11:19" end="01:09:14:05">toi, tu vois rien</p>
+      <p begin="01:09:14:07" end="01:09:16:09">que du noir.</p>
+      <p begin="01:09:20:17" end="01:09:22:11">T'as vu, Speedy ?<br/>Ça sent l'oscar !</p>
+      <p begin="01:09:22:13" end="01:09:24:21">Très joli ! T'as répété ?</p>
+      <p begin="01:09:24:23" end="01:09:28:07">T'as vu, Baby ?<br/>C'est l'exemple parfait d'un homme</p>
+      <p begin="01:09:29:11" end="01:09:31:13">qui aime une femme.</p>
+      <p begin="01:09:32:00" end="01:09:34:05">Vous êtes faits l'un pour l'autre.</p>
+      <p begin="01:09:34:07" end="01:09:36:09">Je suis sérieux.</p>
+      <p begin="01:09:40:03" end="01:09:42:05">Et vous mangez quoi ?</p>
+      <p begin="01:09:43:05" end="01:09:46:03">Pour eux, des Happy Meals.<br/>C'est moi qui régale...</p>
+      <p begin="01:09:47:15" end="01:09:49:17">Debora.</p>
+      <p begin="01:09:51:03" end="01:09:55:03">Mon pote aime pas venir ici.<br/>Pourtant c'est pas mal.</p>
+      <p begin="01:09:55:21" end="01:09:57:23">J'ai une question, Debora.</p>
+      <p begin="01:10:03:03" end="01:10:05:05">Qu'est-ce qu'il a ?</p>
+      <p begin="01:10:06:04" end="01:10:09:09">Il pourrait nous laisser<br/>des suggestions,</p>
+      <p begin="01:10:10:03" end="01:10:12:05">pour améliorer le service.</p>
+      <p begin="01:10:20:23" end="01:10:23:01">Tu la connais ?</p>
+      <p begin="01:10:24:03" end="01:10:26:05">Non.</p>
+      <p begin="01:10:27:19" end="01:10:29:17">On se casse.</p>
+      <p begin="01:10:29:19" end="01:10:31:11">Je m'en occupe.</p>
+      <p begin="01:10:31:13" end="01:10:33:15">T'es malade ?</p>
+      <p begin="01:10:44:11" end="01:10:46:23">File-lui un pourboire,<br/>elle est gentille.</p>
+      <p begin="01:11:18:03" end="01:11:20:12"><span style="style.italic">Road Trip</span><br/><span style="style.italic">2 h du mat</span></p>
+      <p begin="01:11:39:15" end="01:11:41:17">“Bananes“.</p>
+      <p begin="01:11:41:19" end="01:11:43:23">“Bananes“ est un mot de passe.</p>
+      <p begin="01:11:44:01" end="01:11:45:23">Quand une transaction a eu lieu,</p>
+      <p begin="01:11:46:01" end="01:11:49:11">mon client m'appelle,<br/>dit “bananes“ et raccroche.</p>
+      <p begin="01:11:51:21" end="01:11:55:05">Je n'ai pas entendu le mot “bananes“<br/>ce soir.</p>
+      <p begin="01:11:56:00" end="01:11:58:05">Dites-moi qui est mort.</p>
+      <p begin="01:11:58:16" end="01:12:00:06">C'étaient des flics.</p>
+      <p begin="01:12:00:08" end="01:12:01:14">Je sais.</p>
+      <p begin="01:12:01:16" end="01:12:03:10">C'étaient mes flics.</p>
+      <p begin="01:12:03:12" end="01:12:05:15">Ils ont ouvert le feu.</p>
+      <p begin="01:12:05:17" end="01:12:08:07">Je crèverai ni pour vous<br/>ni pour personne.</p>
+      <p begin="01:12:08:16" end="01:12:10:18">C'est vrai, ils ont ouvert le feu ?</p>
+      <p begin="01:12:13:03" end="01:12:15:05">Oui.</p>
+      <p begin="01:12:26:04" end="01:12:27:23">Demandez à un Terrien.</p>
+      <p begin="01:12:28:01" end="01:12:30:03">Je demande à qui je veux.</p>
+      <p begin="01:12:31:23" end="01:12:32:22">On annule.</p>
+      <p begin="01:12:33:00" end="01:12:34:22">- Quoi ?<br/>- Pas si vite.</p>
+      <p begin="01:12:35:00" end="01:12:38:09">Dans 24 h,<br/>la ville entière nous tombe dessus.</p>
+      <p begin="01:12:38:11" end="01:12:42:01">Les poulets sont fumés.<br/>Faudrait une ouija pour nous retrouver.</p>
+      <p begin="01:12:42:03" end="01:12:45:01">Ton nom ne prend que quatre lettres.</p>
+      <p begin="01:12:45:03" end="01:12:47:05">Bats, c'est pas mon vrai nom.</p>
+      <p begin="01:12:49:01" end="01:12:51:03">C'est terminé, Leon.</p>
+      <p begin="01:12:52:11" end="01:12:54:13">Quittez la ville.</p>
+      <p begin="01:12:57:08" end="01:12:59:09">Je me débine pas.</p>
+      <p begin="01:12:59:11" end="01:13:01:19">On fonce dans l'ouragan.</p>
+      <p begin="01:13:02:16" end="01:13:05:21">À nous la plage<br/>et le cocktail anti-extradition,</p>
+      <p begin="01:13:05:23" end="01:13:09:03">en train de compter notre cash<br/>anti-extradition dans 23 heures.</p>
+      <p begin="01:13:09:05" end="01:13:12:23">Et à qui on fourgue nos mandats,<br/>puisque vous avez buté le fourgon ?</p>
+      <p begin="01:13:13:01" end="01:13:14:11">Buddy a un plan.</p>
+      <p begin="01:13:14:13" end="01:13:17:18">Je dis ça au pif,<br/>mais il a forcément un plan.</p>
+      <p begin="01:13:17:20" end="01:13:19:22">Hein, Wall Street ?</p>
+      <p begin="01:13:20:16" end="01:13:22:17">Oui, j'ai un plan.</p>
+      <p begin="01:13:22:19" end="01:13:25:02">Alors on y va.</p>
+      <p begin="01:13:25:04" end="01:13:29:03">J'entends trois voix. Jusqu'à preuve<br/>du contraire, vous êtes quatre.</p>
+      <p begin="01:13:29:16" end="01:13:31:10">Baby, à toi de voir.</p>
+      <p begin="01:13:31:12" end="01:13:33:05">Sois un grand garçon.</p>
+      <p begin="01:13:33:07" end="01:13:34:14">On le fait ou pas ?</p>
+      <p begin="01:13:34:16" end="01:13:36:10">Il est en minorité. On le fait.</p>
+      <p begin="01:13:36:12" end="01:13:38:14">Laisse-le parler.</p>
+      <p begin="01:13:39:20" end="01:13:43:01">On va dormir, qu'on soit d'attaque.</p>
+      <p begin="01:14:02:17" end="01:14:04:09"><span style="style.italic">Baby, à toi de voir.</span></p>
+      <p begin="01:14:04:11" end="01:14:06:02"><span style="style.italic">Sois un grand garçon.</span></p>
+      <p begin="01:14:06:04" end="01:14:08:06"><span style="style.italic">On le fait ou pas ?</span></p>
+      <p begin="01:14:08:08" end="01:14:10:10"><span style="style.italic">On le fait ou pas ?</span></p>
+      <p begin="01:15:20:05" end="01:15:22:07">Tu vas où, Baby ?</p>
+      <p begin="01:15:23:12" end="01:15:25:18">Café.</p>
+      <p begin="01:15:25:20" end="01:15:27:19">À 2 h du mat ?</p>
+      <p begin="01:15:27:21" end="01:15:29:23">Pas très malin.</p>
+      <p begin="01:15:30:13" end="01:15:31:12">Tu déconnes ?</p>
+      <p begin="01:15:31:14" end="01:15:35:12">Déjà que je me coltine Bats,<br/>tu vas me faire chier aussi ?</p>
+      <p begin="01:15:36:21" end="01:15:38:02">Rends-moi service.</p>
+      <p begin="01:15:38:04" end="01:15:41:06">Si tu dois expédier l'affaire,<br/>à la Poste, demain,</p>
+      <p begin="01:15:41:08" end="01:15:43:18">va faire le plein de caféine</p>
+      <p begin="01:15:44:16" end="01:15:46:18">et reviens pas.</p>
+      <p begin="01:15:47:20" end="01:15:52:02">Si t'es là que pour le frisson,<br/>pour te changer les idées,</p>
+      <p begin="01:15:52:04" end="01:15:54:00">fous le camp.</p>
+      <p begin="01:15:54:02" end="01:15:56:04">Vous faites quoi, là ?</p>
+      <p begin="01:15:58:00" end="01:16:00:02">On fait le point pour demain.</p>
+      <p begin="01:16:02:09" end="01:16:04:14">Il va se balader à 2 h du mat.</p>
+      <p begin="01:16:06:04" end="01:16:07:03">C'est ça ?</p>
+      <p begin="01:16:07:05" end="01:16:09:00">Non.</p>
+      <p begin="01:16:09:02" end="01:16:11:01">Bon.</p>
+      <p begin="01:16:11:03" end="01:16:13:05">Tant mieux.</p>
+      <p begin="01:16:14:08" end="01:16:16:10">Faut qu'on cause de ça.</p>
+      <p begin="01:16:17:14" end="01:16:19:16">C'est le même.</p>
+      <p begin="01:16:21:01" end="01:16:24:06"><span style="style.italic">Baby, à toi de voir.</span><br/><span style="style.italic">Sois un grand garçon.</span></p>
+      <p begin="01:16:24:08" end="01:16:25:22"><span style="style.italic">On le fait ou pas ?</span></p>
+      <p begin="01:16:26:00" end="01:16:28:02">Pourquoi tu fais ça ?</p>
+      <p begin="01:16:29:02" end="01:16:31:04">J'aime bien enregistrer des trucs.</p>
+      <p begin="01:16:32:18" end="01:16:34:20">Pourquoi ?</p>
+      <p begin="01:16:35:09" end="01:16:37:11">T'es flic ?</p>
+      <p begin="01:16:37:13" end="01:16:38:22">T'es chauffeur ou balance ?</p>
+      <p begin="01:16:39:00" end="01:16:41:06">Parle, Baby.</p>
+      <p begin="01:16:41:08" end="01:16:43:20">Je réécoute des conversations,<br/>je fais</p>
+      <p begin="01:16:43:22" end="01:16:47:15">de la musique avec les mots,<br/>je les mixe, j'aime bien ça.</p>
+      <p begin="01:16:48:23" end="01:16:51:01">Elle est pourrie, ton excuse.</p>
+      <p begin="01:16:51:03" end="01:16:54:11">Même les flics inventeraient pas<br/>une excuse aussi pourrie.</p>
+      <p begin="01:16:54:13" end="01:16:56:16">Tu nous passes un de tes mix ?</p>
+      <p begin="01:16:56:18" end="01:16:58:19">Je peux pas, ils sont chez moi.</p>
+      <p begin="01:16:58:21" end="01:17:01:13">Alors on va tous se balader<br/>à 2 h du mat.</p>
+      <p begin="01:17:01:22" end="01:17:03:11">Allez.</p>
+      <p begin="01:17:03:13" end="01:17:05:15">J'habite super loin.</p>
+      <p begin="01:17:06:15" end="01:17:08:17">Oh non.</p>
+      <p begin="01:17:10:21" end="01:17:12:15">On se réveille !</p>
+      <p begin="01:17:12:17" end="01:17:14:19">Explications.</p>
+      <p begin="01:17:21:15" end="01:17:22:08">Joe.</p>
+      <p begin="01:17:22:10" end="01:17:23:23">Vous lui avez fait quoi ?</p>
+      <p begin="01:17:24:01" end="01:17:26:00">L'estropié ?</p>
+      <p begin="01:17:26:02" end="01:17:28:04">T'en fais pas pour lui.</p>
+      <p begin="01:17:28:14" end="01:17:30:20">Il est au chaud, il bougera pas.</p>
+      <p begin="01:17:32:01" end="01:17:34:03">Fais-nous écouter un truc.</p>
+      <p begin="01:17:47:00" end="01:17:49:02"><span style="style.italic">Il a été lent ?</span></p>
+      <p begin="01:17:49:17" end="01:17:52:01"><span style="style.italic">Il est gentil et cartonne au volant.</span></p>
+      <p begin="01:17:52:03" end="01:17:53:23"><span style="style.italic">Il a été lent ?</span></p>
+      <p begin="01:17:54:01" end="01:17:56:07"><span style="style.italic">Attardé, c'est lent.</span><br/><span style="style.italic">Il a été lent ?</span></p>
+      <p begin="01:17:59:12" end="01:18:01:14"><span style="style.italic">Ça te suffit pas ?</span></p>
+      <p begin="01:18:02:01" end="01:18:04:03">Là, je dis “bananes“, Doc.</p>
+      <p begin="01:18:04:23" end="01:18:07:12">B-A-N-A-N-E-S.</p>
+      <p begin="01:18:15:23" end="01:18:17:09"><span style="style.italic">Test...</span></p>
+      <p begin="01:18:17:11" end="01:18:19:13"><span style="style.italic">C'est Debbie. Debora.</span></p>
+      <p begin="01:18:21:17" end="01:18:23:19"><span style="style.italic">Moi c'est D-E-B-O-R-A.</span></p>
+      <p begin="01:18:24:04" end="01:18:26:06">C'est pas la serveuse ?</p>
+      <p begin="01:18:27:23" end="01:18:29:20">T'as dit que tu la connaissais pas.</p>
+      <p begin="01:18:29:22" end="01:18:31:20">Pourquoi t'as dit ça ?</p>
+      <p begin="01:18:31:22" end="01:18:34:05">Tu lui as parlé de nous ?</p>
+      <p begin="01:18:34:07" end="01:18:35:08">J'en parle pas.</p>
+      <p begin="01:18:35:10" end="01:18:36:17">Et le Fauteuil ?</p>
+      <p begin="01:18:36:19" end="01:18:38:02">Il peut pas parler.</p>
+      <p begin="01:18:38:04" end="01:18:40:11">Il lit sur les lèvres, non ?</p>
+      <p begin="01:18:40:13" end="01:18:44:20">Ramenez-le dans son trou à rats.<br/>Je trouverai un autre chauffeur.</p>
+      <p begin="01:18:44:22" end="01:18:47:12">Moi, je peux le ramener chez lui.</p>
+      <p begin="01:18:47:14" end="01:18:49:16">Non ! Pas d'autre chauffeur.</p>
+      <p begin="01:18:50:08" end="01:18:52:10">J'ai été votre chauffeur à chaque fois.</p>
+      <p begin="01:18:53:00" end="01:18:54:21">Je balance pas, sauf au volant.</p>
+      <p begin="01:18:54:23" end="01:18:57:08">Et je suis pas lent, je fonce.</p>
+      <p begin="01:18:58:19" end="01:19:00:21">Je serai votre chauffeur.</p>
+      <p begin="01:19:01:07" end="01:19:03:09">Je prends le volant.</p>
+      <p begin="01:19:05:23" end="01:19:08:01">Vous l'avez entendu.</p>
+      <p begin="01:19:08:03" end="01:19:10:05">Il prend le volant.</p>
+      <p begin="01:19:19:00" end="01:19:22:07"><span style="style.italic">Ciel orageux jusqu'à 16 h...</span></p>
+      <p begin="01:19:24:05" end="01:19:28:06"><span style="style.italic">Les rues d'Atlanta seront encombrées</span><br/><span style="style.italic">à cause des travaux...</span></p>
+      <p begin="01:19:38:07" end="01:19:40:09">Ça, c'est à nous.</p>
+      <p begin="01:19:40:11" end="01:19:42:13">Ça nous appartient.</p>
+      <p begin="01:19:42:21" end="01:19:44:23">Ils ont notre fric.</p>
+      <p begin="01:19:45:09" end="01:19:47:11">Notre argent durement gagné.</p>
+      <p begin="01:19:49:17" end="01:19:53:07">On va récupérer ce qui nous appartient.</p>
+      <p begin="01:20:28:10" end="01:20:30:14">Vroum, vroum. C'est parti.</p>
+      <p begin="01:20:31:02" end="01:20:33:04">J'ai l'air de quoi ?</p>
+      <p begin="01:21:22:09" end="01:21:24:11">Lâchez ça !</p>
+      <p begin="01:21:27:15" end="01:21:28:17">Vas-y !</p>
+      <p begin="01:21:28:19" end="01:21:30:21">- Roule !<br/>- Allez !</p>
+      <p begin="01:21:31:19" end="01:21:32:16">Allez !</p>
+      <p begin="01:21:32:18" end="01:21:33:17">On y va !</p>
+      <p begin="01:21:33:19" end="01:21:35:07">Démarre, abruti !</p>
+      <p begin="01:21:35:09" end="01:21:36:14">Vite !</p>
+      <p begin="01:21:36:16" end="01:21:37:23">Avance, putain.</p>
+      <p begin="01:21:38:01" end="01:21:38:18">Allez !</p>
+      <p begin="01:21:38:20" end="01:21:39:13">Vas-y !</p>
+      <p begin="01:21:39:15" end="01:21:41:08">Bouge ou je t'éclate la gueule.</p>
+      <p begin="01:21:41:10" end="01:21:42:03">Bouge !</p>
+      <p begin="01:21:42:05" end="01:21:43:09">- Trois !<br/>- Bouge !</p>
+      <p begin="01:21:43:11" end="01:21:44:22">- Deux !<br/>- Bouge !</p>
+      <p begin="01:21:45:00" end="01:21:47:02">- Un !<br/>- Allez !</p>
+      <p begin="01:22:01:02" end="01:22:03:04">Viens, donne-moi la main.</p>
+      <p begin="01:22:04:22" end="01:22:06:19">Qu'est-ce que t'as fait ?</p>
+      <p begin="01:22:06:21" end="01:22:08:21">Qu'est-ce que t'as foutu ?</p>
+      <p begin="01:22:08:23" end="01:22:10:18">J'ai bougé.</p>
+      <p begin="01:22:10:20" end="01:22:11:16">Enfoiré !</p>
+      <p begin="01:22:11:18" end="01:22:13:20">Jason !</p>
+      <p begin="01:22:17:07" end="01:22:19:09">Jetez votre arme !</p>
+      <p begin="01:22:38:17" end="01:22:39:16">Posez votre arme !</p>
+      <p begin="01:22:39:18" end="01:22:41:20">Couchez-vous...</p>
+      <p begin="01:23:13:00" end="01:23:14:20">On va tirer !</p>
+      <p begin="01:23:14:22" end="01:23:17:00">Arrêtez !</p>
+      <p begin="01:23:32:22" end="01:23:35:00">Dégagez !</p>
+      <p begin="01:23:48:23" end="01:23:51:01"><span style="style.italic">La Poste de Gilmer Street.</span></p>
+      <p begin="01:24:35:03" end="01:24:37:05">Bouge plus !</p>
+      <p begin="01:24:45:06" end="01:24:47:08">Arrête-toi !</p>
+      <p begin="01:24:52:06" end="01:24:54:09"><span style="style.italic">Leur chauffeur a pris la fuite à pied.</span></p>
+      <p begin="01:25:26:18" end="01:25:27:21">Putain je rêve !</p>
+      <p begin="01:25:27:23" end="01:25:29:18">Tu nous portes la poisse !</p>
+      <p begin="01:25:29:20" end="01:25:31:22">Vas-y !</p>
+      <p begin="01:25:33:01" end="01:25:34:11">Putain !</p>
+      <p begin="01:25:34:13" end="01:25:36:09">Sors-nous de là, putain.</p>
+      <p begin="01:25:36:11" end="01:25:38:14">C'est ton bordel, ta faute.</p>
+      <p begin="01:25:38:16" end="01:25:40:18">Posez votre arme !</p>
+      <p begin="01:26:03:23" end="01:26:07:04">Jetez votre arme immédiatement !</p>
+      <p begin="01:26:15:19" end="01:26:17:21">Tout ça, c'est ta faute.</p>
+      <p begin="01:26:45:09" end="01:26:47:18">Sortez.<br/>Sortez, madame.</p>
+      <p begin="01:26:47:20" end="01:26:49:22">Je sors.</p>
+      <p begin="01:26:51:17" end="01:26:53:19">Mon sac !</p>
+      <p begin="01:26:54:03" end="01:26:56:07"><span style="style.italic">Fusillade près de Peachtree Center.</span></p>
+      <p begin="01:26:56:21" end="01:26:58:23"><span style="style.italic">Cambriolage à la Poste.</span></p>
+      <p begin="01:27:23:08" end="01:27:25:10">Désolé, madame.</p>
+      <p begin="01:27:32:06" end="01:27:34:08">Putain de merde !</p>
+      <p begin="01:27:44:14" end="01:27:48:07"><span style="style.italic">En direct sur les lieux</span><br/><span style="style.italic">d'une fusillade en centre-ville.</span></p>
+      <p begin="01:27:48:09" end="01:27:52:16"><span style="style.italic">Trois cambrioleurs</span><br/><span style="style.italic">sont entrés dans un bureau de Poste</span></p>
+      <p begin="01:27:52:18" end="01:27:54:20"><span style="style.italic">peu après 13 h.</span></p>
+      <p begin="01:27:56:03" end="01:27:58:05">Merde. Joe !</p>
+      <p begin="01:27:59:11" end="01:28:00:04">Ça va ?</p>
+      <p begin="01:28:00:06" end="01:28:02:08">Pardon, c'est ma faute.</p>
+      <p begin="01:28:03:16" end="01:28:05:00">On se tire, ça craint.</p>
+      <p begin="01:28:05:02" end="01:28:07:04">Je suis pas aveugle !</p>
+      <p begin="01:28:17:05" end="01:28:20:00">Je veux pas de cet argent sale !</p>
+      <p begin="01:28:20:02" end="01:28:22:10">Je sais ! Mais je te laisse pas ici !</p>
+      <p begin="01:28:30:15" end="01:28:32:02">Bo's Diner, c'est pour quoi ?</p>
+      <p begin="01:28:32:04" end="01:28:33:12">Debora est là ?</p>
+      <p begin="01:28:33:14" end="01:28:35:09"><span style="style.italic">Debbie ?</span></p>
+      <p begin="01:28:35:11" end="01:28:37:22"><span style="style.italic">Elle est avec un client.</span><br/><span style="style.italic">Vous attendez ?</span></p>
+      <p begin="01:28:38:07" end="01:28:39:15">Baby arrive.</p>
+      <p begin="01:28:39:17" end="01:28:41:10">Baby ?</p>
+      <p begin="01:28:41:12" end="01:28:43:14">B-A-B-Y.</p>
+      <p begin="01:28:47:17" end="01:28:51:04"><span style="style.italic">Une Chevrolet Caprice violette</span><br/><span style="style.italic">de 1986.</span></p>
+      <p begin="01:28:56:03" end="01:28:58:05"><span style="style.italic">Quatre policiers ont été blessés...</span></p>
+      <p begin="01:29:00:01" end="01:29:03:17"><span style="style.italic">Les deux suspects en fuite</span><br/><span style="style.italic">sont extrêmement dangereux.</span></p>
+      <p begin="01:29:06:20" end="01:29:09:20"><span style="style.italic">“Bonjour, je m'appelle Joseph.</span></p>
+      <p begin="01:29:09:22" end="01:29:11:08">RÉSIDENCE SENIORS</p>
+      <p begin="01:29:11:10" end="01:29:13:12"><span style="style.italic">J'aime la télé.</span></p>
+      <p begin="01:29:14:01" end="01:29:15:20"><span style="style.italic">Et j'aime aussi</span></p>
+      <p begin="01:29:15:22" end="01:29:19:15"><span style="style.italic">écouter de vieux disques</span><br/><span style="style.italic">grâce aux vibrations.</span></p>
+      <p begin="01:29:20:10" end="01:29:24:02">J'aime les petits pois congelés,<br/>le pain de viande, le pain blanc</p>
+      <p begin="01:29:24:13" end="01:29:26:15">et le beurre de cacahuètes.</p>
+      <p begin="01:29:29:15" end="01:29:31:17">Bien étalé jusqu'aux bords.</p>
+      <p begin="01:29:33:20" end="01:29:35:12">Prenez soin de moi.</p>
+      <p begin="01:29:35:14" end="01:29:37:16">Merci.“</p>
+      <p region="top" begin="01:29:42:13" end="01:29:44:15">Tu reviendras ?</p>
+      <p region="top" begin="01:29:46:12" end="01:29:48:14">Je ne sais pas.</p>
+      <p region="top" begin="01:29:49:03" end="01:29:51:18">Ça va aller ?</p>
+      <p region="top" begin="01:29:55:08" end="01:29:58:14">Je t'ai promis qu'il t'arriverait rien.</p>
+      <p region="top" begin="01:29:58:16" end="01:30:00:18">Et j'ai pas réussi.</p>
+      <p region="top" begin="01:30:01:11" end="01:30:03:18">Mais tu es en sécurité, maintenant.</p>
+      <p region="top" begin="01:30:04:07" end="01:30:07:11">Je parle pas de moi.</p>
+      <p begin="01:30:09:13" end="01:30:12:07"><span style="style.italic">Police d'Atlanta !</span></p>
+      <p begin="01:30:12:09" end="01:30:16:03"><span style="style.italic">Que tous les résidents</span><br/><span style="style.italic">restent à l'intérieur.</span></p>
+      <p begin="01:30:16:05" end="01:30:19:14"><span style="style.italic">Il y a un dangereux criminel en liberté</span><br/><span style="style.italic">dans le périmètre.</span></p>
+      <p begin="01:30:19:16" end="01:30:20:20">Tant mieux.</p>
+      <p begin="01:30:20:22" end="01:30:23:00">Bon courage.</p>
+      <p begin="01:31:01:13" end="01:31:03:15">Ton copain est là.</p>
+      <p begin="01:31:15:02" end="01:31:16:20">Salut, les amoureux.</p>
+      <p begin="01:31:16:22" end="01:31:19:00">J'espérais vous choper ensemble.</p>
+      <p begin="01:31:19:12" end="01:31:21:02">Et vous voilà.</p>
+      <p begin="01:31:21:04" end="01:31:22:22"><span style="style.italic">Trois des cambrioleurs</span></p>
+      <p begin="01:31:23:00" end="01:31:23:19"><span style="style.italic">ont été tués.</span></p>
+      <p begin="01:31:23:21" end="01:31:25:07"><span style="style.italic">Monica Costello...</span></p>
+      <p begin="01:31:25:09" end="01:31:27:11">Monica.</p>
+      <p region="top" begin="01:31:28:17" end="01:31:30:15">Ma Darling.</p>
+      <p begin="01:31:30:17" end="01:31:32:19">C'était une fille bien.</p>
+      <p begin="01:31:33:03" end="01:31:35:05">Je l'aime...</p>
+      <p begin="01:31:35:14" end="01:31:37:16">Je l'aimais.</p>
+      <p begin="01:31:40:07" end="01:31:42:09">Et Debora, c'est...</p>
+      <p begin="01:31:43:22" end="01:31:46:00">C'est une fille bien ?<br/>Tu l'aimes ?</p>
+      <p begin="01:31:46:13" end="01:31:48:15">Oui, je l'aime.</p>
+      <p begin="01:31:49:11" end="01:31:51:13">C'est bien dommage.</p>
+      <p begin="01:32:07:23" end="01:32:10:01">La clé des toilettes ?</p>
+      <p begin="01:32:12:10" end="01:32:14:12">Merci.</p>
+      <p begin="01:32:49:08" end="01:32:51:10">Ça ira.</p>
+      <p begin="01:32:52:21" end="01:32:54:23">Merci.</p>
+      <p begin="01:33:10:03" end="01:33:12:21"><span style="style.italic">Jamais je te lâcherai</span></p>
+      <p begin="01:33:12:23" end="01:33:15:01"><span style="style.italic">Lâcher, c'est pas mon truc</span></p>
+      <p begin="01:33:18:18" end="01:33:20:20">Chanson terminée.</p>
+      <p begin="01:33:21:17" end="01:33:23:19">Mais y a encore des fausses notes.</p>
+      <p begin="01:33:26:11" end="01:33:27:23">Tout se passe bien ?</p>
+      <p begin="01:33:28:01" end="01:33:29:18">Très bien.</p>
+      <p begin="01:33:29:20" end="01:33:31:22">N'est-ce pas, Baby ?</p>
+      <p begin="01:33:38:16" end="01:33:40:23">Viens !</p>
+      <p begin="01:33:41:01" end="01:33:43:03">Pas la peine de fuir !</p>
+      <p begin="01:33:43:13" end="01:33:45:02">T'es foutu !</p>
+      <p begin="01:33:45:04" end="01:33:45:23">On se casse.</p>
+      <p begin="01:33:46:01" end="01:33:48:03">Je te retrouverai !</p>
+      <p begin="01:33:51:12" end="01:33:53:14">Qu'est-ce qui se passe ?</p>
+      <p begin="01:33:57:01" end="01:33:59:01">Je dois partir.</p>
+      <p begin="01:33:59:03" end="01:34:00:08">Je viens avec toi.</p>
+      <p begin="01:34:00:10" end="01:34:01:17">Il a tiré sur quelqu'un !</p>
+      <p begin="01:34:01:19" end="01:34:03:21">- Sur qui ?<br/>- Lui !</p>
+      <p begin="01:34:05:09" end="01:34:06:18">Police !</p>
+      <p begin="01:34:06:20" end="01:34:08:20">Vous, par terre, ça va ?</p>
+      <p begin="01:34:08:22" end="01:34:11:05">Vous me montrez où vous êtes touché ?</p>
+      <p begin="01:34:13:05" end="01:34:15:09">Là.</p>
+      <p begin="01:34:15:11" end="01:34:19:00"><span style="style.italic">Un officier blessé.</span><br/><span style="style.italic">Coups de feu chez Bo's Diner.</span></p>
+      <p begin="01:34:19:12" end="01:34:22:08"><span style="style.italic">Unité 412 sur place, renforts demandés.</span></p>
+      <p begin="01:34:22:10" end="01:34:24:12"><span style="style.italic">Une femme prise en otage.</span></p>
+      <p begin="01:34:27:11" end="01:34:28:09"><span style="style.italic">Qui est-ce ?</span></p>
+      <p begin="01:34:28:11" end="01:34:31:02">- C'est Baby.<br/><span style="style.italic">- Je répète : qui est-ce ?</span></p>
+      <p begin="01:34:31:04" end="01:34:32:07">Aidez-moi.</p>
+      <p begin="01:34:32:09" end="01:34:34:11"><span style="style.italic">Ce numéro n'est plus en service.</span></p>
+      <p begin="01:34:38:22" end="01:34:40:11">Il faut partir d'ici.</p>
+      <p begin="01:34:40:13" end="01:34:42:09">Une chose, d'abord.</p>
+      <p begin="01:34:42:11" end="01:34:44:23">Après, y aura nous,<br/>la musique et l'asphalte.</p>
+      <p begin="01:34:45:12" end="01:34:48:16">On n'a pas de voiture.<br/>Ni de musique.</p>
+      <p begin="01:34:53:12" end="01:34:55:14">Si.</p>
+      <p begin="01:34:57:00" end="01:34:58:09">Sortez.</p>
+      <p begin="01:34:58:11" end="01:35:00:05">Tiens, Bonnie et Clyde.</p>
+      <p begin="01:35:00:07" end="01:35:01:17">Plutôt Bonnie et Bonnie.</p>
+      <p begin="01:35:01:19" end="01:35:02:23">Sortez.</p>
+      <p begin="01:35:03:01" end="01:35:05:05">T'es outillé ?</p>
+      <p begin="01:35:05:07" end="01:35:07:12">T'as déjà tiré, petit ?</p>
+      <p begin="01:35:07:14" end="01:35:08:11">À l'instant.</p>
+      <p begin="01:35:08:13" end="01:35:10:15">Il y a cinq minutes.</p>
+      <p begin="01:35:21:23" end="01:35:24:01">Je peux récupérer mon phone ?</p>
+      <p begin="01:35:58:07" end="01:36:00:03">Pas chauffeur.</p>
+      <p begin="01:36:00:05" end="01:36:02:07">Je note.</p>
+      <p begin="01:36:11:22" end="01:36:14:02">C'est terminé, je ne suis pas ouvert.</p>
+      <p begin="01:36:15:16" end="01:36:17:00">Mes cassettes.</p>
+      <p begin="01:36:17:02" end="01:36:19:04">Je les garde.</p>
+      <p begin="01:36:20:08" end="01:36:23:00">Je vous échange les mandats<br/>contre l'une d'elles.</p>
+      <p begin="01:36:23:02" end="01:36:25:04">Je ne peux pas t'aider.</p>
+      <p begin="01:36:27:00" end="01:36:28:06">J'ai tué Buddy.</p>
+      <p begin="01:36:28:08" end="01:36:29:06">Félicitations.</p>
+      <p begin="01:36:29:08" end="01:36:32:06">T'as les bons flics<br/>et les pourris sur le dos.</p>
+      <p begin="01:36:32:08" end="01:36:34:10">Tu vas me tuer aussi ?</p>
+      <p begin="01:36:35:02" end="01:36:36:22">Jamais. On forme une équipe...</p>
+      <p begin="01:36:37:00" end="01:36:40:02">Arrête de citer <span style="style.italic">Monsters, Inc</span> .<br/>Ça me soûle.</p>
+      <p begin="01:36:41:02" end="01:36:43:04">Samm adore.</p>
+      <p begin="01:36:43:20" end="01:36:46:00">Ça me disait quelque chose,<br/>petit con.</p>
+      <p begin="01:36:50:02" end="01:36:52:06">Je ne vous porte plus bonheur.</p>
+      <p begin="01:36:53:16" end="01:36:55:22">Mais je vous demande votre aide.</p>
+      <p begin="01:36:57:13" end="01:36:59:15">Je ne peux rien faire pour toi.</p>
+      <p begin="01:37:00:02" end="01:37:02:18">Pourquoi je t'aiderais,<br/>après ce que tu m'as fait ?</p>
+      <p begin="01:37:08:12" end="01:37:10:14">C'est pas grave, viens.</p>
+      <p begin="01:37:11:21" end="01:37:13:23">Nom de Dieu...</p>
+      <p begin="01:37:14:18" end="01:37:16:20">Regardez-moi ça.</p>
+      <p begin="01:37:17:06" end="01:37:19:08">Va chercher ta cassette.</p>
+      <p begin="01:37:28:09" end="01:37:30:14">Il va falloir plus qu'une cassette.</p>
+      <p begin="01:37:31:05" end="01:37:33:10">Y a que des mauvaises nouvelles.</p>
+      <p begin="01:37:33:12" end="01:37:35:08">Enfin, y en a une bonne :</p>
+      <p begin="01:37:35:10" end="01:37:37:07">tu aimes conduire.</p>
+      <p begin="01:37:37:09" end="01:37:40:16">Parce que tu lèveras pas le pied<br/>pendant 25 ans.</p>
+      <p begin="01:37:42:00" end="01:37:43:23">Tenez, pour aller à la frontière.</p>
+      <p begin="01:37:44:01" end="01:37:45:22">Ensuite, à vous de jouer.</p>
+      <p begin="01:37:46:00" end="01:37:48:02">Ne faites confiance à personne.</p>
+      <p begin="01:37:48:04" end="01:37:50:06">Et ne regardez jamais en arrière.</p>
+      <p begin="01:37:52:10" end="01:37:54:12">Moi aussi, j'ai été amoureux.</p>
+      <p begin="01:37:58:14" end="01:37:59:10">Bananes !</p>
+      <p begin="01:37:59:12" end="01:38:01:14">Tirez-vous.</p>
+      <p begin="01:38:11:06" end="01:38:13:08">Je croyais...</p>
+      <p begin="01:38:19:17" end="01:38:22:14">Je croyais vous avoir dit<br/>de vous tirer.</p>
+      <p begin="01:38:27:05" end="01:38:28:20">Allez-vous-en.</p>
+      <p begin="01:38:28:22" end="01:38:30:20">Je m'occupe des flics.</p>
+      <p begin="01:38:30:22" end="01:38:33:00">C'est pas eux.</p>
+      <p begin="01:38:34:06" end="01:38:35:19"><span style="style.italic">Pour toi, Baby.</span></p>
+      <p begin="01:38:35:21" end="01:38:37:23">Ton titre qui tue.</p>
+      <p begin="01:39:21:13" end="01:39:23:15">Le sac !</p>
+      <p begin="01:40:10:01" end="01:40:12:03">Putain !</p>
+      <p begin="01:40:13:06" end="01:40:14:21">- On descend.<br/>- On descend ?</p>
+      <p begin="01:40:14:23" end="01:40:17:01">Faut en finir.</p>
+      <p begin="01:40:28:23" end="01:40:31:01">Sors de là, Baby.</p>
+      <p begin="01:40:34:17" end="01:40:36:19">Ô Roméo ! Roméo !</p>
+      <p begin="01:40:38:01" end="01:40:40:03"><span style="style.italic">Où te caches-tu, Roméo ?</span></p>
+      <p begin="01:40:42:18" end="01:40:44:20">Vas-y !</p>
+      <p begin="01:40:52:10" end="01:40:54:08">Fils de pute !</p>
+      <p begin="01:40:54:10" end="01:40:57:07"><span style="style.italic">La voiture de patrouille 3204</span></p>
+      <p begin="01:40:57:22" end="01:41:00:05"><span style="style.italic">a sans doute été volée</span><br/><span style="style.italic">par Jason Van Horn.</span></p>
+      <p begin="01:41:00:07" end="01:41:02:09">Montre-toi, Baby !</p>
+      <p begin="01:41:02:17" end="01:41:04:19">Sale gosse !</p>
+      <p begin="01:41:05:09" end="01:41:06:13">Ça va, mon gars ?</p>
+      <p begin="01:41:06:15" end="01:41:08:17"><span style="style.italic">Armé et extrêmement dangereux.</span></p>
+      <p begin="01:41:09:15" end="01:41:11:01">Il a tiré, ce con !</p>
+      <p begin="01:41:11:03" end="01:41:13:05">Assistance demandée !</p>
+      <p begin="01:41:36:03" end="01:41:38:05">Va chier.</p>
+      <p begin="01:42:17:07" end="01:42:19:09">T'es doué, petit.</p>
+      <p begin="01:42:19:21" end="01:42:22:09">Mais tu m'as privé<br/>de quelque chose que j'aimais.</p>
+      <p begin="01:42:23:23" end="01:42:26:01">Je dois faire pareil.</p>
+      <p begin="01:42:32:21" end="01:42:35:07">Dommage que tu l'entendes pas crier.</p>
+      <p begin="01:42:40:03" end="01:42:42:05">T'as plus qu'à regarder.</p>
+      <p begin="01:43:39:07" end="01:43:41:07">Tu fais quoi ?</p>
+      <p begin="01:43:41:09" end="01:43:42:13">Je roule</p>
+      <p begin="01:43:42:15" end="01:43:44:17">en écoutant de la musique.</p>
+      <p begin="01:43:45:11" end="01:43:47:13">C'est vraiment ta mère ?</p>
+      <p begin="01:43:52:18" end="01:43:54:20">Elle a une voix magnifique.</p>
+      <p begin="01:43:57:03" end="01:43:59:05">Je sais.</p>
+      <p begin="01:44:38:14" end="01:44:40:16"><span style="style.italic">Restez en position.</span></p>
+      <p begin="01:45:11:19" end="01:45:13:21">T'as rien à faire dans ce monde-là.</p>
+      <p begin="01:45:51:02" end="01:45:53:04"><span style="style.italic">Je suis désolé.</span></p>
+      <p begin="01:46:00:15" end="01:46:02:22">Laissez-le tranquille !</p>
+      <p region="top" begin="01:46:05:23" end="01:46:08:05"><span style="style.italic">Décrivez-moi</span></p>
+      <p region="top" begin="01:46:08:07" end="01:46:10:11"><span style="style.italic">votre relation avec l'accusé.</span></p>
+      <p begin="01:46:11:10" end="01:46:14:03"><span style="style.italic">On était amis.</span><br/><span style="style.italic">Mais on voulait aller plus loin.</span></p>
+      <p begin="01:46:15:17" end="01:46:17:15"><span style="style.italic">Il s'est retrouvé dans un mauvais plan.</span></p>
+      <p begin="01:46:17:17" end="01:46:19:19"><span style="style.italic">J'ai essayé de l'aider à en sortir.</span></p>
+      <p begin="01:46:19:21" end="01:46:22:09">L'accusé est quelqu'un de bien.</p>
+      <p begin="01:46:22:22" end="01:46:25:05">Il ne mérite pas ce qui lui est arrivé.</p>
+      <p begin="01:46:25:07" end="01:46:27:09"><span style="style.italic">C'était très étrange.</span></p>
+      <p begin="01:46:27:19" end="01:46:29:21"><span style="style.italic">Il a fini par s'éloigner</span></p>
+      <p begin="01:46:30:11" end="01:46:32:19">en me lançant mon sac à main.</p>
+      <p begin="01:46:33:17" end="01:46:36:21"><span style="style.italic">Et il a même dit : “Je suis désolé.“</span></p>
+      <p begin="01:46:37:09" end="01:46:39:08"><span style="style.italic">Il m'a regardée en secouant la tête.</span></p>
+      <p begin="01:46:39:10" end="01:46:42:11">C'était un signe,<br/>pour que je n'entre pas.</p>
+      <p begin="01:46:42:19" end="01:46:45:13"><span style="style.italic">Il avait l'air inquiet,</span><br/><span style="style.italic">comme s'il voulait me sauver.</span></p>
+      <p begin="01:46:46:09" end="01:46:48:11"><span style="style.italic">Il a fait une erreur quand il était jeune</span></p>
+      <p begin="01:46:48:22" end="01:46:51:00"><span style="style.italic">et ça n'a jamais cessé de le hanter.</span></p>
+      <p begin="01:46:51:02" end="01:46:54:11"><span style="style.italic">Quand il voulait arrêter,</span><br/><span style="style.italic">on lui remettait la pression.</span></p>
+      <p begin="01:46:55:13" end="01:46:57:08">Ça n'a jamais été sa faute.</p>
+      <p begin="01:46:57:10" end="01:46:59:12">Il a le cœur sur la main.</p>
+      <p begin="01:46:59:14" end="01:47:02:11"><span style="style.italic">Depuis toujours, et ça ne changera pas.</span></p>
+      <p begin="01:47:02:19" end="01:47:04:23"><span style="style.italic">Concernant les chefs 1 à 19,</span></p>
+      <p begin="01:47:05:18" end="01:47:07:05">et le chef 21,</p>
+      <p begin="01:47:07:07" end="01:47:09:04">je condamne l'accusé</p>
+      <p begin="01:47:09:06" end="01:47:11:21">à 25 ans de réclusion.</p>
+      <p begin="01:47:11:23" end="01:47:13:23">Libération conditionnelle possible</p>
+      <p begin="01:47:14:01" end="01:47:16:03">au bout de cinq ans.</p>
+      <p begin="01:47:30:22" end="01:47:33:00">T'as du courrier, petit.</p>
+      <p begin="01:47:35:23" end="01:47:37:21"><span style="style.italic">Salut, Baby.</span></p>
+      <p begin="01:47:37:23" end="01:47:39:01"><span style="style.italic">C'est drôle.</span></p>
+      <p begin="01:47:39:03" end="01:47:42:00"><span style="style.italic">Même si je l'ai entendu</span><br/><span style="style.italic">plein de fois au tribunal,</span></p>
+      <p begin="01:47:42:02" end="01:47:46:15"><span style="style.italic">j'arrive pas à m'habituer</span><br/><span style="style.italic">à ton vrai nom, Miles.</span></p>
+      <p begin="01:47:47:10" end="01:47:49:12"><span style="style.italic">Mais j'aime bien.</span></p>
+      <p begin="01:47:50:11" end="01:47:52:19"><span style="style.italic">Y a plein de chansons géniales</span><br/><span style="style.italic">avec “Miles“.</span></p>
+      <p begin="01:47:53:11" end="01:47:56:19"><span style="style.italic">Mais faut qu'on fasse le tour</span><br/><span style="style.italic">de toutes les chansons avec “Baby“.</span></p>
+      <p begin="01:47:57:11" end="01:47:59:23"><span style="style.italic">Vivement qu'il y ait plus que nous deux,</span></p>
+      <p begin="01:48:00:11" end="01:48:02:00"><span style="style.italic">la musique</span></p>
+      <p begin="01:48:02:02" end="01:48:04:04"><span style="style.italic">et l'asphalte.</span></p>
+      <p begin="01:48:04:23" end="01:48:06:12"><span style="style.italic">À plus tard, Baby.</span></p>
+      <p begin="01:48:06:14" end="01:48:08:01"><span style="style.italic">Avec toute ma tendresse,</span></p>
+      <p begin="01:48:08:03" end="01:48:10:05"><span style="style.italic">Debora.</span></p>
+      <p begin="01:52:27:11" end="01:52:28:10">Sous-titres : Maï Boiron</p>
+      <p begin="01:52:28:12" end="01:52:30:14">Sous-titrage : HIVENTY</p>
+    </div>
+  </body>
+</tt>
